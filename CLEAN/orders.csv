@@ -1,0 +1,894 @@
+order_id;item_name;date;day;time_of_sale;month;quantity
+2;Vadapav;2022-08-23;Tuesday;Afternoon;2022-08;15
+3;Vadapav;2022-11-20;Sunday;Afternoon;2022-11;1
+4;Sugarcane juice;2023-02-03;Friday;Night;2023-02;6
+5;Sugarcane juice;2022-10-02;Sunday;Evening;2022-10;8
+6;Vadapav;2022-11-14;Monday;Evening;2022-11;10
+7;Sugarcane juice;2022-05-03;Tuesday;Evening;2022-05;9
+8;Panipuri;2022-12-22;Thursday;Night;2022-12;14
+9;Panipuri;2022-06-10;Friday;Morning;2022-06;1
+10;Panipuri;2022-09-16;Friday;Afternoon;2022-09;5
+11;Frankie;2022-12-01;Thursday;Afternoon;2022-12;8
+12;Vadapav;2022-07-12;Tuesday;Night;2022-07;8
+13;Panipuri;2022-12-22;Thursday;Afternoon;2022-12;9
+14;Frankie;2022-11-25;Friday;Morning;2022-11;4
+15;Aalopuri;2023-02-03;Friday;Evening;2023-02;3
+17;Panipuri;2022-10-16;Sunday;Morning;2022-10;11
+18;Panipuri;2022-11-05;Saturday;Night;2022-11;10
+19;Panipuri;2022-08-22;Monday;Night;2022-08;11
+20;Cold coffee;2022-09-15;Thursday;Night;2022-09;10
+21;Cold coffee;2022-12-21;Wednesday;Evening;2022-12;15
+22;Sugarcane juice;2022-10-04;Tuesday;Evening;2022-10;12
+23;Sandwich;2022-05-26;Thursday;Midnight;2022-05;3
+24;Sugarcane juice;2023-02-11;Saturday;Afternoon;2023-02;10
+25;Sandwich;2022-08-31;Wednesday;Evening;2022-08;1
+26;Sugarcane juice;2022-08-18;Thursday;Afternoon;2022-08;4
+27;Cold coffee;2022-10-12;Wednesday;Afternoon;2022-10;11
+28;Cold coffee;2023-01-06;Friday;Afternoon;2023-01;10
+29;Sugarcane juice;2023-02-10;Friday;Afternoon;2023-02;9
+30;Frankie;2023-01-28;Saturday;Night;2023-01;2
+31;Cold coffee;2022-09-14;Wednesday;Evening;2022-09;13
+33;Aalopuri;2023-02-05;Sunday;Night;2023-02;13
+34;Frankie;2023-02-04;Saturday;Evening;2023-02;12
+35;Vadapav;2022-05-22;Sunday;Morning;2022-05;8
+36;Cold coffee;2022-07-02;Saturday;Afternoon;2022-07;10
+37;Frankie;2023-01-05;Thursday;Night;2023-01;10
+38;Panipuri;2023-03-08;Wednesday;Night;2023-03;12
+39;Vadapav;2022-05-14;Saturday;Evening;2022-05;2
+40;Sandwich;2023-02-05;Sunday;Night;2023-02;5
+42;Aalopuri;2022-05-09;Monday;Night;2022-05;8
+43;Vadapav;2022-05-26;Thursday;Night;2022-05;1
+44;Cold coffee;2022-08-28;Sunday;Evening;2022-08;12
+45;Sugarcane juice;2022-08-15;Monday;Afternoon;2022-08;6
+46;Vadapav;2022-05-07;Saturday;Evening;2022-05;7
+48;Sandwich;2023-02-23;Thursday;Afternoon;2023-02;14
+49;Frankie;2022-11-06;Sunday;Morning;2022-11;4
+50;Vadapav;2022-11-02;Wednesday;Midnight;2022-11;8
+51;Frankie;2022-05-16;Monday;Morning;2022-05;15
+52;Sugarcane juice;2023-03-16;Thursday;Midnight;2023-03;12
+53;Aalopuri;2022-07-26;Tuesday;Afternoon;2022-07;13
+54;Panipuri;2022-12-28;Wednesday;Morning;2022-12;14
+55;Sandwich;2022-05-07;Saturday;Night;2022-05;10
+56;Panipuri;2022-11-23;Wednesday;Midnight;2022-11;11
+57;Panipuri;2022-08-04;Thursday;Morning;2022-08;14
+58;Vadapav;2023-02-03;Friday;Morning;2023-02;6
+59;Vadapav;2022-07-01;Friday;Morning;2022-07;5
+60;Cold coffee;2022-06-11;Saturday;Night;2022-06;2
+61;Vadapav;2022-12-25;Sunday;Afternoon;2022-12;14
+62;Sugarcane juice;2022-10-17;Monday;Afternoon;2022-10;3
+63;Sandwich;2022-12-01;Thursday;Morning;2022-12;7
+64;Cold coffee;2022-12-09;Friday;Morning;2022-12;1
+65;Aalopuri;2022-07-25;Monday;Morning;2022-07;4
+66;Frankie;2022-04-05;Tuesday;Morning;2022-04;2
+67;Aalopuri;2022-05-15;Sunday;Midnight;2022-05;9
+69;Vadapav;2023-01-10;Tuesday;Midnight;2023-01;7
+71;Cold coffee;2022-12-05;Monday;Night;2022-12;6
+72;Frankie;2023-03-09;Thursday;Afternoon;2023-03;13
+73;Panipuri;2022-07-29;Friday;Midnight;2022-07;5
+74;Cold coffee;2022-08-15;Monday;Evening;2022-08;10
+75;Cold coffee;2023-02-02;Thursday;Afternoon;2023-02;6
+76;Vadapav;2022-08-17;Wednesday;Morning;2022-08;9
+77;Sugarcane juice;2023-02-04;Saturday;Midnight;2023-02;12
+78;Vadapav;2022-10-01;Saturday;Evening;2022-10;4
+79;Panipuri;2022-11-05;Saturday;Night;2022-11;6
+80;Frankie;2022-05-24;Tuesday;Evening;2022-05;13
+81;Frankie;2022-11-19;Saturday;Night;2022-11;12
+82;Frankie;2022-07-17;Sunday;Evening;2022-07;3
+84;Panipuri;2023-03-03;Friday;Midnight;2023-03;13
+85;Aalopuri;2022-08-19;Friday;Night;2022-08;3
+86;Aalopuri;2023-03-09;Thursday;Morning;2023-03;15
+87;Aalopuri;2022-05-29;Sunday;Night;2022-05;8
+88;Cold coffee;2022-07-07;Thursday;Evening;2022-07;10
+89;Aalopuri;2022-12-23;Friday;Evening;2022-12;14
+90;Vadapav;2022-10-29;Saturday;Night;2022-10;15
+92;Aalopuri;2022-05-13;Friday;Afternoon;2022-05;15
+93;Cold coffee;2022-07-03;Sunday;Midnight;2022-07;2
+95;Sugarcane juice;2022-05-12;Thursday;Night;2022-05;8
+97;Cold coffee;2023-03-29;Wednesday;Evening;2023-03;13
+98;Vadapav;2022-12-24;Saturday;Morning;2022-12;1
+99;Sugarcane juice;2022-09-11;Sunday;Evening;2022-09;3
+101;Vadapav;2023-03-26;Sunday;Morning;2023-03;3
+102;Cold coffee;2023-03-13;Monday;Morning;2023-03;14
+103;Cold coffee;2023-03-14;Tuesday;Midnight;2023-03;8
+104;Cold coffee;2022-10-27;Thursday;Morning;2022-10;13
+105;Panipuri;2023-01-25;Wednesday;Evening;2023-01;8
+106;Frankie;2023-02-25;Saturday;Evening;2023-02;9
+107;Sandwich;2023-02-07;Tuesday;Afternoon;2023-02;4
+108;Panipuri;2022-08-06;Saturday;Afternoon;2022-08;5
+110;Panipuri;2022-11-16;Wednesday;Morning;2022-11;2
+111;Sandwich;2022-09-04;Sunday;Midnight;2022-09;8
+112;Sandwich;2023-02-24;Friday;Morning;2023-02;7
+113;Aalopuri;2022-12-12;Monday;Afternoon;2022-12;8
+114;Aalopuri;2022-08-14;Sunday;Afternoon;2022-08;10
+116;Sugarcane juice;2022-08-26;Friday;Evening;2022-08;13
+117;Frankie;2023-03-09;Thursday;Evening;2023-03;7
+118;Sandwich;2022-07-06;Wednesday;Midnight;2022-07;1
+119;Panipuri;2022-05-12;Thursday;Evening;2022-05;10
+120;Frankie;2022-07-10;Sunday;Evening;2022-07;2
+121;Cold coffee;2022-08-26;Friday;Afternoon;2022-08;8
+123;Cold coffee;2022-06-09;Thursday;Evening;2022-06;6
+125;Vadapav;2022-04-10;Sunday;Midnight;2022-04;7
+126;Panipuri;2022-04-08;Friday;Night;2022-04;11
+128;Vadapav;2022-08-07;Sunday;Midnight;2022-08;11
+129;Panipuri;2022-10-19;Wednesday;Morning;2022-10;13
+130;Sugarcane juice;2022-12-28;Wednesday;Night;2022-12;7
+131;Sandwich;2023-01-19;Thursday;Night;2023-01;8
+132;Vadapav;2022-12-05;Monday;Night;2022-12;4
+133;Aalopuri;2022-12-20;Tuesday;Midnight;2022-12;5
+134;Aalopuri;2022-07-17;Sunday;Night;2022-07;12
+135;Aalopuri;2023-01-14;Saturday;Midnight;2023-01;8
+136;Aalopuri;2022-08-24;Wednesday;Morning;2022-08;15
+138;Sandwich;2022-09-01;Thursday;Night;2022-09;15
+139;Frankie;2023-02-26;Sunday;Night;2023-02;11
+140;Frankie;2022-06-12;Sunday;Night;2022-06;13
+142;Sugarcane juice;2022-12-30;Friday;Morning;2022-12;12
+144;Panipuri;2022-11-17;Thursday;Evening;2022-11;10
+145;Sandwich;2022-10-09;Sunday;Morning;2022-10;14
+147;Panipuri;2022-05-17;Tuesday;Evening;2022-05;7
+148;Sandwich;2023-03-19;Sunday;Evening;2023-03;13
+149;Sandwich;2022-08-09;Tuesday;Morning;2022-08;7
+150;Cold coffee;2023-01-30;Monday;Afternoon;2023-01;14
+151;Frankie;2022-07-10;Sunday;Morning;2022-07;13
+152;Cold coffee;2022-10-24;Monday;Afternoon;2022-10;9
+153;Panipuri;2022-07-21;Thursday;Evening;2022-07;1
+154;Vadapav;2022-12-13;Tuesday;Night;2022-12;3
+155;Sugarcane juice;2023-02-07;Tuesday;Evening;2023-02;10
+156;Panipuri;2023-03-25;Saturday;Midnight;2023-03;14
+157;Frankie;2023-02-24;Friday;Midnight;2023-02;7
+159;Sugarcane juice;2022-10-03;Monday;Afternoon;2022-10;1
+160;Vadapav;2022-07-23;Saturday;Night;2022-07;10
+161;Sugarcane juice;2023-01-19;Thursday;Evening;2023-01;12
+162;Aalopuri;2022-05-07;Saturday;Midnight;2022-05;11
+163;Frankie;2023-01-06;Friday;Midnight;2023-01;6
+164;Sugarcane juice;2022-08-10;Wednesday;Afternoon;2022-08;7
+165;Sandwich;2023-01-05;Thursday;Midnight;2023-01;11
+166;Panipuri;2022-06-01;Wednesday;Evening;2022-06;6
+167;Cold coffee;2023-02-23;Thursday;Morning;2023-02;6
+168;Sandwich;2022-04-19;Tuesday;Midnight;2022-04;4
+169;Vadapav;2022-06-20;Monday;Morning;2022-06;6
+171;Vadapav;2023-03-02;Thursday;Midnight;2023-03;11
+172;Sugarcane juice;2022-08-27;Saturday;Night;2022-08;6
+173;Cold coffee;2023-01-20;Friday;Night;2023-01;2
+174;Aalopuri;2022-09-03;Saturday;Evening;2022-09;2
+175;Frankie;2022-10-17;Monday;Afternoon;2022-10;12
+176;Panipuri;2022-08-04;Thursday;Midnight;2022-08;1
+177;Panipuri;2022-07-21;Thursday;Morning;2022-07;11
+178;Aalopuri;2022-12-09;Friday;Morning;2022-12;2
+180;Vadapav;2022-12-01;Thursday;Afternoon;2022-12;6
+181;Cold coffee;2022-06-09;Thursday;Night;2022-06;7
+182;Cold coffee;2022-07-02;Saturday;Midnight;2022-07;1
+183;Sugarcane juice;2022-07-10;Sunday;Midnight;2022-07;5
+184;Cold coffee;2023-01-03;Tuesday;Night;2023-01;8
+186;Frankie;2023-03-15;Wednesday;Afternoon;2023-03;2
+187;Aalopuri;2022-10-11;Tuesday;Morning;2022-10;15
+188;Panipuri;2022-12-28;Wednesday;Night;2022-12;14
+189;Vadapav;2023-02-08;Wednesday;Afternoon;2023-02;12
+190;Cold coffee;2022-04-26;Tuesday;Evening;2022-04;1
+191;Sugarcane juice;2022-05-20;Friday;Morning;2022-05;14
+192;Vadapav;2022-10-26;Wednesday;Night;2022-10;2
+193;Cold coffee;2023-02-05;Sunday;Midnight;2023-02;15
+194;Vadapav;2022-12-15;Thursday;Morning;2022-12;4
+195;Sandwich;2022-04-23;Saturday;Night;2022-04;4
+196;Sandwich;2022-06-25;Saturday;Evening;2022-06;3
+197;Panipuri;2022-11-08;Tuesday;Midnight;2022-11;10
+198;Frankie;2023-01-05;Thursday;Morning;2023-01;15
+199;Frankie;2023-02-01;Wednesday;Morning;2023-02;6
+200;Cold coffee;2022-12-25;Sunday;Morning;2022-12;10
+201;Panipuri;2022-06-30;Thursday;Morning;2022-06;8
+202;Aalopuri;2022-09-21;Wednesday;Afternoon;2022-09;9
+203;Vadapav;2022-04-11;Monday;Midnight;2022-04;6
+204;Cold coffee;2022-10-24;Monday;Evening;2022-10;7
+206;Aalopuri;2022-07-27;Wednesday;Night;2022-07;4
+207;Cold coffee;2023-02-20;Monday;Evening;2023-02;8
+208;Cold coffee;2022-08-26;Friday;Midnight;2022-08;13
+209;Aalopuri;2022-12-04;Sunday;Night;2022-12;2
+211;Aalopuri;2022-04-18;Monday;Morning;2022-04;12
+212;Cold coffee;2022-05-05;Thursday;Morning;2022-05;12
+214;Sugarcane juice;2022-12-03;Saturday;Evening;2022-12;14
+216;Panipuri;2023-03-07;Tuesday;Afternoon;2023-03;9
+217;Cold coffee;2023-03-23;Thursday;Morning;2023-03;10
+218;Cold coffee;2022-12-23;Friday;Midnight;2022-12;13
+219;Aalopuri;2022-10-01;Saturday;Evening;2022-10;9
+220;Sugarcane juice;2022-05-13;Friday;Afternoon;2022-05;1
+221;Sandwich;2023-03-26;Sunday;Evening;2023-03;1
+222;Sandwich;2022-09-11;Sunday;Morning;2022-09;6
+223;Panipuri;2022-09-21;Wednesday;Night;2022-09;13
+224;Sugarcane juice;2023-03-23;Thursday;Afternoon;2023-03;14
+225;Frankie;2023-03-16;Thursday;Evening;2023-03;11
+226;Aalopuri;2022-12-12;Monday;Afternoon;2022-12;13
+227;Cold coffee;2022-11-17;Thursday;Afternoon;2022-11;5
+228;Panipuri;2022-11-05;Saturday;Night;2022-11;8
+230;Frankie;2022-04-16;Saturday;Afternoon;2022-04;6
+232;Vadapav;2022-04-23;Saturday;Night;2022-04;13
+233;Panipuri;2022-07-31;Sunday;Morning;2022-07;5
+234;Panipuri;2022-07-27;Wednesday;Midnight;2022-07;10
+235;Sandwich;2022-11-29;Tuesday;Afternoon;2022-11;10
+237;Panipuri;2022-11-08;Tuesday;Midnight;2022-11;13
+238;Vadapav;2022-04-26;Tuesday;Morning;2022-04;13
+239;Frankie;2022-12-04;Sunday;Evening;2022-12;4
+240;Sandwich;2022-12-11;Sunday;Morning;2022-12;10
+241;Sugarcane juice;2022-06-06;Monday;Afternoon;2022-06;2
+242;Cold coffee;2022-12-23;Friday;Midnight;2022-12;4
+243;Panipuri;2022-11-12;Saturday;Midnight;2022-11;5
+244;Sandwich;2022-11-22;Tuesday;Midnight;2022-11;10
+245;Vadapav;2022-10-03;Monday;Morning;2022-10;2
+246;Vadapav;2022-11-16;Wednesday;Afternoon;2022-11;10
+248;Frankie;2022-04-17;Sunday;Midnight;2022-04;5
+249;Sugarcane juice;2022-10-26;Wednesday;Afternoon;2022-10;3
+250;Sugarcane juice;2022-11-15;Tuesday;Midnight;2022-11;6
+252;Vadapav;2023-03-26;Sunday;Midnight;2023-03;8
+253;Sugarcane juice;2022-06-18;Saturday;Afternoon;2022-06;13
+256;Aalopuri;2023-03-16;Thursday;Midnight;2023-03;3
+257;Sandwich;2023-01-03;Tuesday;Midnight;2023-01;10
+258;Vadapav;2022-09-06;Tuesday;Midnight;2022-09;14
+259;Sandwich;2022-11-18;Friday;Morning;2022-11;4
+260;Sugarcane juice;2022-09-10;Saturday;Night;2022-09;2
+261;Frankie;2023-01-11;Wednesday;Midnight;2023-01;9
+263;Panipuri;2022-06-19;Sunday;Evening;2022-06;2
+264;Sugarcane juice;2022-07-18;Monday;Morning;2022-07;12
+265;Vadapav;2022-08-15;Monday;Midnight;2022-08;6
+266;Frankie;2022-10-02;Sunday;Night;2022-10;10
+267;Vadapav;2023-03-05;Sunday;Morning;2023-03;1
+268;Cold coffee;2023-02-05;Sunday;Midnight;2023-02;12
+270;Sandwich;2022-09-07;Wednesday;Evening;2022-09;13
+271;Vadapav;2022-05-03;Tuesday;Evening;2022-05;13
+272;Frankie;2022-07-29;Friday;Night;2022-07;5
+273;Panipuri;2022-08-15;Monday;Midnight;2022-08;15
+274;Sugarcane juice;2023-01-04;Wednesday;Night;2023-01;10
+275;Vadapav;2023-02-04;Saturday;Night;2023-02;15
+276;Sugarcane juice;2022-09-30;Friday;Midnight;2022-09;6
+277;Cold coffee;2022-12-08;Thursday;Midnight;2022-12;13
+278;Frankie;2022-06-19;Sunday;Night;2022-06;6
+279;Vadapav;2022-09-14;Wednesday;Afternoon;2022-09;15
+280;Panipuri;2022-10-09;Sunday;Evening;2022-10;14
+281;Sandwich;2022-08-09;Tuesday;Afternoon;2022-08;3
+283;Panipuri;2022-07-02;Saturday;Midnight;2022-07;2
+287;Aalopuri;2022-08-06;Saturday;Morning;2022-08;3
+288;Sandwich;2022-08-22;Monday;Night;2022-08;7
+289;Aalopuri;2022-11-28;Monday;Midnight;2022-11;7
+290;Panipuri;2022-05-03;Tuesday;Morning;2022-05;7
+291;Frankie;2023-01-27;Friday;Night;2023-01;8
+292;Frankie;2023-01-16;Monday;Midnight;2023-01;2
+293;Panipuri;2022-04-21;Thursday;Morning;2022-04;8
+294;Aalopuri;2022-09-23;Friday;Evening;2022-09;1
+295;Sandwich;2022-07-21;Thursday;Midnight;2022-07;7
+296;Panipuri;2023-02-06;Monday;Afternoon;2023-02;7
+297;Sandwich;2022-04-30;Saturday;Evening;2022-04;10
+298;Sugarcane juice;2022-07-19;Tuesday;Afternoon;2022-07;9
+299;Aalopuri;2022-07-22;Friday;Evening;2022-07;1
+300;Aalopuri;2022-06-27;Monday;Afternoon;2022-06;8
+301;Panipuri;2023-01-28;Saturday;Night;2023-01;7
+302;Aalopuri;2023-03-21;Tuesday;Night;2023-03;14
+303;Sugarcane juice;2022-07-02;Saturday;Midnight;2022-07;1
+304;Vadapav;2022-05-28;Saturday;Morning;2022-05;15
+306;Cold coffee;2023-03-03;Friday;Morning;2023-03;8
+307;Vadapav;2023-02-13;Monday;Evening;2023-02;8
+308;Sandwich;2022-12-17;Saturday;Evening;2022-12;13
+309;Sandwich;2022-10-14;Friday;Evening;2022-10;8
+310;Vadapav;2022-04-25;Monday;Afternoon;2022-04;4
+312;Cold coffee;2022-12-28;Wednesday;Night;2022-12;1
+313;Cold coffee;2022-04-19;Tuesday;Midnight;2022-04;1
+314;Frankie;2023-02-27;Monday;Morning;2023-02;8
+315;Cold coffee;2023-02-20;Monday;Afternoon;2023-02;13
+316;Frankie;2022-11-02;Wednesday;Morning;2022-11;4
+317;Aalopuri;2023-03-10;Friday;Afternoon;2023-03;12
+318;Aalopuri;2022-12-21;Wednesday;Midnight;2022-12;10
+319;Frankie;2022-06-30;Thursday;Afternoon;2022-06;15
+320;Sugarcane juice;2023-03-18;Saturday;Afternoon;2023-03;7
+321;Frankie;2023-02-08;Wednesday;Evening;2023-02;12
+322;Cold coffee;2022-05-05;Thursday;Morning;2022-05;11
+323;Aalopuri;2022-12-29;Thursday;Morning;2022-12;4
+324;Sugarcane juice;2022-07-18;Monday;Night;2022-07;15
+326;Sandwich;2022-05-03;Tuesday;Evening;2022-05;8
+327;Frankie;2022-11-29;Tuesday;Midnight;2022-11;15
+328;Vadapav;2022-06-16;Thursday;Evening;2022-06;3
+329;Panipuri;2023-01-10;Tuesday;Afternoon;2023-01;7
+331;Panipuri;2022-08-21;Sunday;Evening;2022-08;4
+333;Sugarcane juice;2022-10-30;Sunday;Afternoon;2022-10;11
+334;Cold coffee;2022-04-04;Monday;Evening;2022-04;4
+335;Cold coffee;2022-10-24;Monday;Night;2022-10;11
+337;Aalopuri;2022-10-15;Saturday;Midnight;2022-10;14
+338;Sugarcane juice;2022-05-06;Friday;Morning;2022-05;12
+340;Cold coffee;2022-06-02;Thursday;Evening;2022-06;4
+341;Frankie;2023-03-19;Sunday;Evening;2023-03;9
+342;Vadapav;2023-03-11;Saturday;Afternoon;2023-03;7
+343;Sugarcane juice;2023-01-18;Wednesday;Afternoon;2023-01;5
+344;Cold coffee;2022-05-13;Friday;Night;2022-05;14
+345;Panipuri;2022-05-09;Monday;Night;2022-05;14
+346;Cold coffee;2023-01-31;Tuesday;Morning;2023-01;12
+347;Frankie;2022-06-24;Friday;Afternoon;2022-06;7
+348;Vadapav;2022-09-19;Monday;Midnight;2022-09;1
+349;Panipuri;2022-08-17;Wednesday;Evening;2022-08;5
+350;Cold coffee;2022-09-21;Wednesday;Morning;2022-09;8
+351;Frankie;2022-07-08;Friday;Night;2022-07;5
+352;Frankie;2022-05-25;Wednesday;Night;2022-05;11
+353;Vadapav;2022-05-18;Wednesday;Midnight;2022-05;4
+354;Panipuri;2023-01-16;Monday;Midnight;2023-01;14
+355;Cold coffee;2023-03-15;Wednesday;Midnight;2023-03;4
+356;Sugarcane juice;2022-05-26;Thursday;Night;2022-05;14
+357;Sandwich;2022-09-21;Wednesday;Afternoon;2022-09;9
+358;Aalopuri;2022-10-27;Thursday;Night;2022-10;6
+359;Aalopuri;2022-08-27;Saturday;Night;2022-08;13
+360;Cold coffee;2022-10-06;Thursday;Midnight;2022-10;2
+362;Sugarcane juice;2022-12-30;Friday;Morning;2022-12;2
+363;Frankie;2022-05-09;Monday;Afternoon;2022-05;9
+364;Cold coffee;2022-10-11;Tuesday;Night;2022-10;2
+365;Panipuri;2022-07-08;Friday;Night;2022-07;10
+366;Sugarcane juice;2022-11-30;Wednesday;Afternoon;2022-11;10
+368;Cold coffee;2022-08-31;Wednesday;Night;2022-08;2
+369;Sandwich;2022-07-03;Sunday;Evening;2022-07;2
+371;Vadapav;2022-10-18;Tuesday;Night;2022-10;5
+373;Sugarcane juice;2022-05-08;Sunday;Midnight;2022-05;12
+374;Frankie;2022-07-24;Sunday;Midnight;2022-07;10
+375;Panipuri;2022-11-17;Thursday;Evening;2022-11;13
+376;Frankie;2022-12-04;Sunday;Midnight;2022-12;15
+377;Sugarcane juice;2022-05-20;Friday;Evening;2022-05;3
+378;Vadapav;2022-04-24;Sunday;Midnight;2022-04;2
+380;Sandwich;2022-10-20;Thursday;Afternoon;2022-10;5
+381;Vadapav;2023-02-26;Sunday;Morning;2023-02;1
+382;Cold coffee;2022-08-16;Tuesday;Night;2022-08;9
+383;Aalopuri;2022-05-06;Friday;Morning;2022-05;7
+384;Sugarcane juice;2022-10-22;Saturday;Afternoon;2022-10;1
+385;Vadapav;2022-04-25;Monday;Morning;2022-04;5
+386;Frankie;2022-11-23;Wednesday;Midnight;2022-11;5
+387;Sugarcane juice;2023-03-17;Friday;Midnight;2023-03;14
+388;Sandwich;2022-10-09;Sunday;Evening;2022-10;14
+389;Sandwich;2022-12-22;Thursday;Evening;2022-12;12
+391;Aalopuri;2022-04-21;Thursday;Night;2022-04;1
+392;Aalopuri;2022-09-18;Sunday;Night;2022-09;15
+393;Sugarcane juice;2022-07-02;Saturday;Evening;2022-07;10
+394;Sandwich;2022-04-03;Sunday;Morning;2022-04;1
+395;Sandwich;2023-01-31;Tuesday;Evening;2023-01;3
+396;Frankie;2022-10-31;Monday;Morning;2022-10;15
+397;Aalopuri;2022-07-06;Wednesday;Afternoon;2022-07;2
+398;Panipuri;2023-01-13;Friday;Evening;2023-01;6
+399;Panipuri;2022-06-24;Friday;Evening;2022-06;9
+400;Cold coffee;2023-03-04;Saturday;Morning;2023-03;15
+401;Sugarcane juice;2022-10-11;Tuesday;Midnight;2022-10;8
+402;Frankie;2023-03-19;Sunday;Night;2023-03;7
+403;Cold coffee;2022-09-25;Sunday;Midnight;2022-09;3
+404;Frankie;2022-11-26;Saturday;Midnight;2022-11;7
+405;Sugarcane juice;2022-12-13;Tuesday;Night;2022-12;10
+406;Cold coffee;2022-10-13;Thursday;Afternoon;2022-10;4
+407;Sugarcane juice;2023-01-02;Monday;Evening;2023-01;2
+408;Vadapav;2022-10-05;Wednesday;Midnight;2022-10;4
+409;Aalopuri;2022-09-15;Thursday;Morning;2022-09;9
+410;Aalopuri;2022-11-23;Wednesday;Afternoon;2022-11;15
+411;Panipuri;2022-11-20;Sunday;Afternoon;2022-11;12
+413;Aalopuri;2022-04-03;Sunday;Midnight;2022-04;10
+415;Vadapav;2022-12-05;Monday;Evening;2022-12;8
+417;Panipuri;2023-01-16;Monday;Evening;2023-01;3
+418;Cold coffee;2022-11-12;Saturday;Night;2022-11;7
+420;Frankie;2023-01-30;Monday;Evening;2023-01;13
+421;Cold coffee;2023-03-24;Friday;Midnight;2023-03;2
+422;Cold coffee;2022-08-02;Tuesday;Evening;2022-08;7
+423;Frankie;2022-10-21;Friday;Night;2022-10;7
+424;Sugarcane juice;2022-04-21;Thursday;Midnight;2022-04;9
+425;Panipuri;2022-08-17;Wednesday;Afternoon;2022-08;14
+426;Frankie;2023-01-20;Friday;Midnight;2023-01;14
+427;Sandwich;2022-05-21;Saturday;Afternoon;2022-05;2
+428;Sugarcane juice;2022-12-24;Saturday;Afternoon;2022-12;8
+429;Cold coffee;2022-09-19;Monday;Night;2022-09;3
+430;Sandwich;2022-11-05;Saturday;Night;2022-11;4
+431;Panipuri;2023-03-16;Thursday;Evening;2023-03;6
+432;Panipuri;2023-03-27;Monday;Afternoon;2023-03;6
+433;Panipuri;2022-05-27;Friday;Evening;2022-05;14
+434;Aalopuri;2022-08-21;Sunday;Morning;2022-08;12
+435;Sandwich;2022-05-08;Sunday;Afternoon;2022-05;1
+436;Frankie;2023-01-05;Thursday;Midnight;2023-01;10
+438;Cold coffee;2022-06-20;Monday;Morning;2022-06;5
+439;Frankie;2022-09-30;Friday;Afternoon;2022-09;13
+440;Aalopuri;2022-11-28;Monday;Afternoon;2022-11;7
+441;Aalopuri;2022-11-02;Wednesday;Midnight;2022-11;1
+442;Sugarcane juice;2022-08-22;Monday;Night;2022-08;7
+443;Sugarcane juice;2022-09-05;Monday;Night;2022-09;12
+445;Sandwich;2022-10-22;Saturday;Morning;2022-10;14
+446;Cold coffee;2022-08-31;Wednesday;Night;2022-08;9
+447;Frankie;2023-01-17;Tuesday;Afternoon;2023-01;6
+448;Vadapav;2022-07-27;Wednesday;Evening;2022-07;6
+449;Frankie;2022-09-09;Friday;Afternoon;2022-09;4
+450;Sugarcane juice;2022-05-20;Friday;Morning;2022-05;1
+451;Sugarcane juice;2023-03-15;Wednesday;Midnight;2023-03;10
+452;Frankie;2022-12-25;Sunday;Afternoon;2022-12;5
+453;Sandwich;2022-10-20;Thursday;Midnight;2022-10;1
+454;Sandwich;2023-03-07;Tuesday;Evening;2023-03;1
+455;Cold coffee;2023-03-01;Wednesday;Midnight;2023-03;11
+457;Cold coffee;2022-10-16;Sunday;Evening;2022-10;11
+458;Sugarcane juice;2022-09-12;Monday;Midnight;2022-09;8
+459;Vadapav;2022-06-08;Wednesday;Night;2022-06;14
+460;Aalopuri;2022-11-20;Sunday;Morning;2022-11;2
+461;Sugarcane juice;2022-07-22;Friday;Midnight;2022-07;5
+462;Vadapav;2022-04-24;Sunday;Morning;2022-04;3
+463;Sandwich;2022-06-11;Saturday;Midnight;2022-06;6
+464;Sugarcane juice;2022-10-18;Tuesday;Morning;2022-10;13
+465;Sugarcane juice;2023-01-15;Sunday;Evening;2023-01;12
+466;Panipuri;2023-01-11;Wednesday;Evening;2023-01;6
+467;Aalopuri;2022-10-17;Monday;Morning;2022-10;11
+468;Panipuri;2022-09-08;Thursday;Evening;2022-09;2
+469;Sandwich;2022-05-15;Sunday;Morning;2022-05;7
+470;Vadapav;2022-09-29;Thursday;Morning;2022-09;8
+471;Panipuri;2023-02-13;Monday;Afternoon;2023-02;7
+473;Sandwich;2022-09-04;Sunday;Evening;2022-09;5
+474;Sugarcane juice;2022-08-28;Sunday;Night;2022-08;15
+475;Cold coffee;2023-02-24;Friday;Night;2023-02;6
+476;Aalopuri;2023-02-02;Thursday;Morning;2023-02;10
+477;Sandwich;2023-02-13;Monday;Midnight;2023-02;15
+478;Sugarcane juice;2022-12-27;Tuesday;Afternoon;2022-12;9
+479;Sandwich;2023-02-13;Monday;Afternoon;2023-02;11
+480;Vadapav;2022-10-02;Sunday;Evening;2022-10;12
+481;Sugarcane juice;2022-10-29;Saturday;Evening;2022-10;4
+482;Aalopuri;2023-01-31;Tuesday;Afternoon;2023-01;1
+483;Panipuri;2022-04-27;Wednesday;Morning;2022-04;9
+484;Cold coffee;2023-03-21;Tuesday;Afternoon;2023-03;5
+485;Aalopuri;2023-02-26;Sunday;Midnight;2023-02;6
+486;Vadapav;2023-02-14;Tuesday;Midnight;2023-02;6
+487;Sandwich;2022-05-27;Friday;Midnight;2022-05;9
+488;Cold coffee;2022-09-21;Wednesday;Midnight;2022-09;10
+489;Frankie;2023-02-03;Friday;Evening;2023-02;13
+490;Cold coffee;2022-12-26;Monday;Morning;2022-12;8
+491;Vadapav;2022-05-31;Tuesday;Midnight;2022-05;2
+492;Sandwich;2022-07-11;Monday;Afternoon;2022-07;15
+493;Cold coffee;2022-10-02;Sunday;Morning;2022-10;2
+494;Cold coffee;2023-01-14;Saturday;Night;2023-01;10
+495;Aalopuri;2022-10-20;Thursday;Midnight;2022-10;13
+496;Cold coffee;2022-11-07;Monday;Night;2022-11;10
+497;Sandwich;2023-01-25;Wednesday;Midnight;2023-01;7
+498;Frankie;2022-06-16;Thursday;Midnight;2022-06;1
+499;Sandwich;2022-07-27;Wednesday;Evening;2022-07;8
+500;Vadapav;2022-04-08;Friday;Midnight;2022-04;4
+501;Sugarcane juice;2022-08-09;Tuesday;Afternoon;2022-08;14
+502;Panipuri;2023-01-04;Wednesday;Night;2023-01;13
+503;Aalopuri;2022-11-04;Friday;Morning;2022-11;13
+504;Cold coffee;2022-12-09;Friday;Evening;2022-12;8
+505;Frankie;2023-02-12;Sunday;Night;2023-02;4
+506;Cold coffee;2022-12-26;Monday;Midnight;2022-12;12
+507;Aalopuri;2022-12-14;Wednesday;Morning;2022-12;14
+508;Sandwich;2022-12-10;Saturday;Night;2022-12;1
+509;Vadapav;2022-10-26;Wednesday;Evening;2022-10;11
+510;Sandwich;2022-04-04;Monday;Afternoon;2022-04;14
+511;Panipuri;2022-08-02;Tuesday;Night;2022-08;4
+512;Panipuri;2023-01-11;Wednesday;Afternoon;2023-01;3
+513;Cold coffee;2022-07-16;Saturday;Night;2022-07;5
+514;Cold coffee;2022-08-24;Wednesday;Evening;2022-08;8
+516;Sugarcane juice;2022-09-22;Thursday;Midnight;2022-09;12
+517;Panipuri;2022-07-02;Saturday;Evening;2022-07;13
+518;Aalopuri;2022-12-09;Friday;Morning;2022-12;6
+519;Cold coffee;2022-11-25;Friday;Morning;2022-11;10
+520;Panipuri;2022-04-03;Sunday;Night;2022-04;11
+521;Panipuri;2023-01-27;Friday;Morning;2023-01;14
+522;Panipuri;2022-12-29;Thursday;Midnight;2022-12;13
+523;Frankie;2022-11-03;Thursday;Afternoon;2022-11;6
+524;Aalopuri;2022-05-01;Sunday;Afternoon;2022-05;13
+525;Vadapav;2022-05-04;Wednesday;Midnight;2022-05;3
+526;Sandwich;2022-07-04;Monday;Evening;2022-07;10
+527;Sugarcane juice;2023-01-06;Friday;Afternoon;2023-01;6
+528;Sugarcane juice;2022-07-01;Friday;Midnight;2022-07;7
+530;Panipuri;2022-07-27;Wednesday;Night;2022-07;6
+531;Cold coffee;2022-10-04;Tuesday;Night;2022-10;10
+532;Panipuri;2023-03-27;Monday;Midnight;2023-03;13
+534;Vadapav;2022-05-16;Monday;Night;2022-05;2
+535;Sandwich;2022-09-05;Monday;Midnight;2022-09;4
+536;Sugarcane juice;2023-03-01;Wednesday;Evening;2023-03;7
+537;Panipuri;2023-01-25;Wednesday;Evening;2023-01;3
+538;Panipuri;2022-06-05;Sunday;Morning;2022-06;7
+539;Panipuri;2022-09-07;Wednesday;Evening;2022-09;3
+540;Vadapav;2022-05-27;Friday;Afternoon;2022-05;13
+541;Panipuri;2022-07-30;Saturday;Night;2022-07;12
+542;Sugarcane juice;2022-08-04;Thursday;Evening;2022-08;9
+543;Aalopuri;2022-04-10;Sunday;Evening;2022-04;15
+544;Sandwich;2022-12-14;Wednesday;Morning;2022-12;15
+545;Sandwich;2023-01-01;Sunday;Midnight;2023-01;13
+546;Aalopuri;2022-07-09;Saturday;Midnight;2022-07;1
+547;Cold coffee;2022-05-14;Saturday;Morning;2022-05;10
+548;Cold coffee;2023-03-29;Wednesday;Afternoon;2023-03;14
+549;Sugarcane juice;2022-04-15;Friday;Afternoon;2022-04;3
+550;Cold coffee;2022-11-15;Tuesday;Afternoon;2022-11;15
+551;Sugarcane juice;2022-07-30;Saturday;Evening;2022-07;7
+552;Sugarcane juice;2022-09-12;Monday;Midnight;2022-09;15
+553;Panipuri;2022-11-11;Friday;Evening;2022-11;14
+554;Panipuri;2023-03-09;Thursday;Afternoon;2023-03;4
+555;Sandwich;2022-04-16;Saturday;Evening;2022-04;6
+556;Vadapav;2023-02-27;Monday;Night;2023-02;9
+557;Sandwich;2022-06-30;Thursday;Evening;2022-06;2
+558;Panipuri;2022-10-01;Saturday;Morning;2022-10;5
+559;Cold coffee;2022-08-31;Wednesday;Night;2022-08;5
+560;Sugarcane juice;2022-12-10;Saturday;Evening;2022-12;1
+561;Panipuri;2022-06-13;Monday;Midnight;2022-06;1
+562;Frankie;2022-08-09;Tuesday;Afternoon;2022-08;4
+563;Frankie;2022-10-13;Thursday;Evening;2022-10;7
+565;Panipuri;2022-09-27;Tuesday;Evening;2022-09;15
+566;Frankie;2022-07-19;Tuesday;Evening;2022-07;3
+567;Cold coffee;2022-10-16;Sunday;Afternoon;2022-10;7
+569;Cold coffee;2023-01-02;Monday;Midnight;2023-01;15
+570;Sugarcane juice;2022-09-15;Thursday;Morning;2022-09;4
+571;Sugarcane juice;2022-11-28;Monday;Evening;2022-11;1
+572;Sandwich;2022-04-02;Saturday;Afternoon;2022-04;15
+573;Frankie;2022-09-07;Wednesday;Afternoon;2022-09;2
+574;Aalopuri;2022-10-22;Saturday;Night;2022-10;1
+575;Vadapav;2022-12-24;Saturday;Midnight;2022-12;1
+576;Panipuri;2023-03-23;Thursday;Afternoon;2023-03;12
+577;Cold coffee;2022-09-06;Tuesday;Evening;2022-09;7
+578;Frankie;2022-06-30;Thursday;Night;2022-06;5
+579;Panipuri;2022-04-27;Wednesday;Evening;2022-04;2
+580;Panipuri;2022-07-01;Friday;Night;2022-07;10
+581;Sugarcane juice;2022-04-23;Saturday;Afternoon;2022-04;13
+582;Aalopuri;2022-05-12;Thursday;Morning;2022-05;13
+583;Frankie;2022-05-31;Tuesday;Night;2022-05;8
+584;Cold coffee;2022-12-04;Sunday;Morning;2022-12;15
+585;Vadapav;2023-03-05;Sunday;Morning;2023-03;11
+586;Sandwich;2022-05-22;Sunday;Night;2022-05;15
+587;Aalopuri;2022-04-09;Saturday;Night;2022-04;10
+588;Frankie;2022-06-16;Thursday;Morning;2022-06;11
+589;Cold coffee;2022-08-25;Thursday;Night;2022-08;5
+590;Panipuri;2023-03-27;Monday;Midnight;2023-03;15
+591;Sandwich;2022-10-01;Saturday;Morning;2022-10;13
+592;Sugarcane juice;2022-12-04;Sunday;Morning;2022-12;7
+593;Sugarcane juice;2023-02-16;Thursday;Evening;2023-02;9
+594;Frankie;2023-01-20;Friday;Morning;2023-01;6
+595;Frankie;2023-02-22;Wednesday;Afternoon;2023-02;9
+596;Cold coffee;2022-04-26;Tuesday;Night;2022-04;1
+597;Panipuri;2022-11-30;Wednesday;Midnight;2022-11;10
+598;Cold coffee;2022-08-02;Tuesday;Afternoon;2022-08;8
+599;Frankie;2022-10-03;Monday;Morning;2022-10;13
+600;Panipuri;2022-12-24;Saturday;Morning;2022-12;6
+601;Aalopuri;2022-11-01;Tuesday;Morning;2022-11;12
+602;Aalopuri;2022-08-27;Saturday;Night;2022-08;10
+603;Vadapav;2022-08-31;Wednesday;Afternoon;2022-08;10
+604;Frankie;2022-09-08;Thursday;Night;2022-09;10
+606;Cold coffee;2022-04-09;Saturday;Night;2022-04;6
+607;Vadapav;2022-12-15;Thursday;Afternoon;2022-12;9
+608;Aalopuri;2023-02-28;Tuesday;Midnight;2023-02;1
+610;Frankie;2022-05-08;Sunday;Evening;2022-05;13
+611;Aalopuri;2022-06-25;Saturday;Morning;2022-06;2
+612;Aalopuri;2023-02-06;Monday;Midnight;2023-02;3
+613;Vadapav;2022-06-10;Friday;Night;2022-06;5
+616;Vadapav;2022-07-15;Friday;Midnight;2022-07;6
+617;Sugarcane juice;2022-06-28;Tuesday;Night;2022-06;2
+618;Frankie;2022-04-08;Friday;Evening;2022-04;1
+619;Sugarcane juice;2022-09-09;Friday;Morning;2022-09;4
+620;Panipuri;2022-09-14;Wednesday;Evening;2022-09;12
+621;Aalopuri;2023-02-13;Monday;Evening;2023-02;2
+622;Panipuri;2022-12-14;Wednesday;Afternoon;2022-12;13
+623;Cold coffee;2022-04-02;Saturday;Midnight;2022-04;15
+624;Sandwich;2023-03-08;Wednesday;Morning;2023-03;9
+625;Sandwich;2022-06-17;Friday;Morning;2022-06;15
+626;Cold coffee;2023-02-01;Wednesday;Night;2023-02;15
+627;Sugarcane juice;2022-06-22;Wednesday;Afternoon;2022-06;15
+629;Sugarcane juice;2023-01-20;Friday;Evening;2023-01;9
+631;Cold coffee;2022-07-01;Friday;Evening;2022-07;13
+632;Panipuri;2022-10-28;Friday;Night;2022-10;9
+633;Cold coffee;2022-05-24;Tuesday;Evening;2022-05;3
+634;Panipuri;2022-07-26;Tuesday;Afternoon;2022-07;13
+635;Vadapav;2023-02-06;Monday;Night;2023-02;15
+637;Aalopuri;2022-05-14;Saturday;Midnight;2022-05;7
+638;Cold coffee;2022-08-20;Saturday;Afternoon;2022-08;11
+639;Vadapav;2023-01-26;Thursday;Morning;2023-01;14
+640;Sandwich;2023-01-04;Wednesday;Night;2023-01;15
+641;Vadapav;2023-02-09;Thursday;Afternoon;2023-02;15
+642;Cold coffee;2022-05-09;Monday;Morning;2022-05;10
+643;Sugarcane juice;2022-10-20;Thursday;Afternoon;2022-10;2
+644;Panipuri;2023-02-03;Friday;Evening;2023-02;5
+645;Sandwich;2022-07-26;Tuesday;Night;2022-07;9
+646;Vadapav;2022-08-30;Tuesday;Afternoon;2022-08;14
+647;Vadapav;2022-06-05;Sunday;Afternoon;2022-06;3
+648;Sandwich;2022-05-27;Friday;Night;2022-05;7
+649;Frankie;2022-11-05;Saturday;Midnight;2022-11;9
+650;Sandwich;2022-04-07;Thursday;Morning;2022-04;13
+651;Sandwich;2022-07-11;Monday;Midnight;2022-07;10
+652;Cold coffee;2022-05-21;Saturday;Afternoon;2022-05;13
+653;Frankie;2022-05-30;Monday;Midnight;2022-05;10
+654;Vadapav;2023-03-04;Saturday;Morning;2023-03;9
+655;Sugarcane juice;2022-06-30;Thursday;Morning;2022-06;12
+656;Sandwich;2022-11-28;Monday;Midnight;2022-11;6
+659;Panipuri;2023-01-21;Saturday;Afternoon;2023-01;2
+660;Sandwich;2022-07-25;Monday;Night;2022-07;9
+661;Frankie;2022-10-11;Tuesday;Midnight;2022-10;7
+662;Panipuri;2023-02-15;Wednesday;Afternoon;2023-02;3
+663;Sugarcane juice;2023-02-05;Sunday;Night;2023-02;1
+664;Frankie;2022-10-31;Monday;Morning;2022-10;10
+665;Aalopuri;2022-05-06;Friday;Evening;2022-05;14
+666;Panipuri;2023-01-25;Wednesday;Evening;2023-01;9
+667;Vadapav;2022-09-28;Wednesday;Evening;2022-09;3
+668;Aalopuri;2022-05-11;Wednesday;Morning;2022-05;4
+669;Sandwich;2023-03-18;Saturday;Evening;2023-03;11
+670;Panipuri;2022-07-05;Tuesday;Night;2022-07;15
+671;Sandwich;2022-10-09;Sunday;Afternoon;2022-10;2
+673;Sandwich;2022-09-17;Saturday;Midnight;2022-09;12
+675;Sandwich;2022-04-17;Sunday;Night;2022-04;12
+676;Frankie;2022-05-04;Wednesday;Evening;2022-05;7
+677;Cold coffee;2022-05-19;Thursday;Morning;2022-05;3
+678;Aalopuri;2022-05-23;Monday;Evening;2022-05;3
+679;Sandwich;2022-11-02;Wednesday;Morning;2022-11;12
+680;Cold coffee;2022-04-20;Wednesday;Night;2022-04;4
+681;Frankie;2022-12-09;Friday;Night;2022-12;9
+682;Aalopuri;2022-10-11;Tuesday;Midnight;2022-10;14
+683;Frankie;2022-08-12;Friday;Midnight;2022-08;15
+684;Vadapav;2022-09-18;Sunday;Afternoon;2022-09;5
+685;Aalopuri;2022-05-20;Friday;Afternoon;2022-05;3
+686;Cold coffee;2022-11-25;Friday;Afternoon;2022-11;5
+687;Vadapav;2022-12-18;Sunday;Midnight;2022-12;10
+688;Frankie;2022-05-14;Saturday;Afternoon;2022-05;5
+689;Vadapav;2022-08-13;Saturday;Afternoon;2022-08;6
+690;Vadapav;2022-10-05;Wednesday;Night;2022-10;9
+691;Sandwich;2022-04-01;Friday;Evening;2022-04;7
+692;Frankie;2023-01-13;Friday;Afternoon;2023-01;14
+693;Sugarcane juice;2022-11-29;Tuesday;Midnight;2022-11;13
+694;Panipuri;2022-04-22;Friday;Midnight;2022-04;14
+695;Panipuri;2022-08-24;Wednesday;Midnight;2022-08;10
+696;Sugarcane juice;2023-02-23;Thursday;Evening;2023-02;3
+697;Sugarcane juice;2022-05-05;Thursday;Midnight;2022-05;5
+698;Panipuri;2022-11-26;Saturday;Night;2022-11;10
+699;Cold coffee;2022-09-09;Friday;Evening;2022-09;1
+700;Frankie;2022-11-15;Tuesday;Evening;2022-11;6
+701;Sugarcane juice;2022-07-19;Tuesday;Evening;2022-07;14
+702;Cold coffee;2023-03-25;Saturday;Afternoon;2023-03;13
+703;Panipuri;2022-11-01;Tuesday;Afternoon;2022-11;10
+704;Sandwich;2022-08-14;Sunday;Evening;2022-08;1
+705;Sandwich;2022-10-07;Friday;Evening;2022-10;6
+706;Frankie;2023-02-05;Sunday;Night;2023-02;8
+707;Panipuri;2022-12-16;Friday;Night;2022-12;2
+708;Sandwich;2023-03-15;Wednesday;Midnight;2023-03;5
+709;Cold coffee;2023-02-22;Wednesday;Morning;2023-02;6
+711;Aalopuri;2022-10-30;Sunday;Afternoon;2022-10;3
+712;Vadapav;2022-12-17;Saturday;Midnight;2022-12;3
+713;Sugarcane juice;2022-12-02;Friday;Morning;2022-12;14
+714;Sugarcane juice;2022-12-14;Wednesday;Afternoon;2022-12;14
+715;Sandwich;2022-04-12;Tuesday;Morning;2022-04;1
+716;Panipuri;2022-12-03;Saturday;Midnight;2022-12;9
+718;Aalopuri;2022-12-28;Wednesday;Afternoon;2022-12;2
+719;Vadapav;2022-05-09;Monday;Midnight;2022-05;15
+720;Frankie;2022-05-10;Tuesday;Morning;2022-05;14
+723;Cold coffee;2023-02-16;Thursday;Evening;2023-02;10
+724;Frankie;2022-06-27;Monday;Night;2022-06;10
+725;Vadapav;2022-07-04;Monday;Afternoon;2022-07;6
+726;Panipuri;2022-09-11;Sunday;Morning;2022-09;1
+727;Aalopuri;2022-08-25;Thursday;Midnight;2022-08;5
+728;Vadapav;2022-08-03;Wednesday;Midnight;2022-08;1
+729;Sandwich;2022-11-24;Thursday;Night;2022-11;7
+730;Frankie;2022-06-28;Tuesday;Afternoon;2022-06;13
+731;Frankie;2023-03-09;Thursday;Afternoon;2023-03;10
+733;Frankie;2023-02-03;Friday;Evening;2023-02;10
+734;Frankie;2022-10-07;Friday;Evening;2022-10;7
+735;Panipuri;2022-08-10;Wednesday;Morning;2022-08;11
+737;Frankie;2022-09-20;Tuesday;Night;2022-09;13
+738;Sandwich;2023-03-01;Wednesday;Morning;2023-03;4
+739;Aalopuri;2022-06-06;Monday;Night;2022-06;11
+740;Aalopuri;2022-07-30;Saturday;Midnight;2022-07;9
+741;Aalopuri;2022-07-16;Saturday;Afternoon;2022-07;5
+742;Panipuri;2022-11-18;Friday;Night;2022-11;14
+743;Panipuri;2022-11-09;Wednesday;Morning;2022-11;1
+744;Frankie;2022-06-25;Saturday;Morning;2022-06;10
+745;Aalopuri;2022-09-11;Sunday;Evening;2022-09;2
+746;Sugarcane juice;2022-08-05;Friday;Midnight;2022-08;5
+747;Cold coffee;2023-01-14;Saturday;Midnight;2023-01;3
+748;Sandwich;2022-09-20;Tuesday;Night;2022-09;14
+749;Vadapav;2022-08-31;Wednesday;Morning;2022-08;11
+750;Frankie;2023-02-01;Wednesday;Evening;2023-02;1
+751;Vadapav;2022-09-16;Friday;Afternoon;2022-09;2
+752;Panipuri;2022-06-04;Saturday;Morning;2022-06;2
+753;Sugarcane juice;2022-06-26;Sunday;Midnight;2022-06;1
+754;Sugarcane juice;2022-12-29;Thursday;Evening;2022-12;14
+755;Aalopuri;2023-01-02;Monday;Night;2023-01;12
+756;Sugarcane juice;2022-10-21;Friday;Morning;2022-10;10
+757;Sugarcane juice;2022-12-25;Sunday;Morning;2022-12;11
+758;Vadapav;2022-09-25;Sunday;Evening;2022-09;3
+759;Sugarcane juice;2022-12-25;Sunday;Midnight;2022-12;13
+760;Sugarcane juice;2022-11-14;Monday;Evening;2022-11;1
+762;Vadapav;2022-04-09;Saturday;Midnight;2022-04;12
+764;Sandwich;2023-02-14;Tuesday;Night;2023-02;7
+765;Sandwich;2022-06-15;Wednesday;Night;2022-06;13
+766;Sandwich;2022-06-19;Sunday;Morning;2022-06;10
+767;Frankie;2023-02-26;Sunday;Afternoon;2023-02;8
+768;Sandwich;2023-01-12;Thursday;Afternoon;2023-01;14
+769;Frankie;2022-06-07;Tuesday;Morning;2022-06;8
+770;Aalopuri;2023-02-22;Wednesday;Morning;2023-02;8
+771;Panipuri;2022-08-15;Monday;Midnight;2022-08;5
+772;Cold coffee;2023-03-20;Monday;Evening;2023-03;9
+773;Cold coffee;2022-08-14;Sunday;Afternoon;2022-08;7
+774;Vadapav;2023-03-15;Wednesday;Night;2023-03;1
+775;Sandwich;2023-03-27;Monday;Night;2023-03;6
+776;Frankie;2023-02-07;Tuesday;Midnight;2023-02;10
+777;Panipuri;2022-10-23;Sunday;Morning;2022-10;13
+778;Frankie;2022-06-11;Saturday;Evening;2022-06;13
+780;Sugarcane juice;2022-11-27;Sunday;Afternoon;2022-11;13
+781;Aalopuri;2022-05-27;Friday;Midnight;2022-05;10
+782;Aalopuri;2022-12-16;Friday;Night;2022-12;5
+783;Aalopuri;2022-04-29;Friday;Morning;2022-04;8
+784;Vadapav;2022-07-09;Saturday;Morning;2022-07;8
+785;Aalopuri;2022-12-07;Wednesday;Afternoon;2022-12;2
+786;Sandwich;2023-03-13;Monday;Night;2023-03;14
+787;Aalopuri;2023-03-25;Saturday;Afternoon;2023-03;2
+788;Sugarcane juice;2022-08-13;Saturday;Afternoon;2022-08;7
+789;Sugarcane juice;2022-08-03;Wednesday;Morning;2022-08;7
+790;Panipuri;2022-07-20;Wednesday;Evening;2022-07;3
+792;Vadapav;2023-02-25;Saturday;Morning;2023-02;2
+793;Sandwich;2022-08-30;Tuesday;Night;2022-08;6
+794;Sugarcane juice;2022-10-02;Sunday;Afternoon;2022-10;5
+795;Vadapav;2023-01-10;Tuesday;Evening;2023-01;9
+796;Sugarcane juice;2022-06-25;Saturday;Night;2022-06;14
+797;Cold coffee;2022-11-26;Saturday;Night;2022-11;11
+799;Panipuri;2023-01-11;Wednesday;Night;2023-01;1
+800;Cold coffee;2022-11-06;Sunday;Night;2022-11;14
+801;Aalopuri;2022-04-28;Thursday;Evening;2022-04;7
+802;Sandwich;2023-01-23;Monday;Afternoon;2023-01;7
+804;Cold coffee;2022-10-11;Tuesday;Night;2022-10;12
+805;Sugarcane juice;2022-05-08;Sunday;Afternoon;2022-05;1
+806;Vadapav;2022-05-23;Monday;Evening;2022-05;3
+807;Frankie;2022-06-13;Monday;Midnight;2022-06;1
+808;Panipuri;2022-09-21;Wednesday;Morning;2022-09;1
+809;Panipuri;2022-12-12;Monday;Evening;2022-12;10
+810;Vadapav;2022-12-27;Tuesday;Morning;2022-12;3
+811;Aalopuri;2023-03-02;Thursday;Afternoon;2023-03;13
+812;Panipuri;2022-08-08;Monday;Afternoon;2022-08;5
+813;Panipuri;2022-10-13;Thursday;Afternoon;2022-10;10
+814;Vadapav;2022-10-05;Wednesday;Midnight;2022-10;13
+815;Cold coffee;2022-04-20;Wednesday;Afternoon;2022-04;12
+816;Sugarcane juice;2023-01-11;Wednesday;Morning;2023-01;11
+817;Aalopuri;2022-05-21;Saturday;Evening;2022-05;12
+818;Frankie;2023-02-28;Tuesday;Night;2023-02;6
+819;Vadapav;2022-10-12;Wednesday;Evening;2022-10;10
+821;Aalopuri;2022-07-24;Sunday;Midnight;2022-07;12
+822;Panipuri;2022-06-17;Friday;Morning;2022-06;12
+823;Panipuri;2023-02-13;Monday;Midnight;2023-02;11
+824;Vadapav;2023-01-18;Wednesday;Evening;2023-01;2
+825;Panipuri;2022-10-30;Sunday;Morning;2022-10;14
+826;Sandwich;2022-12-02;Friday;Night;2022-12;15
+827;Sandwich;2023-01-06;Friday;Midnight;2023-01;12
+828;Panipuri;2022-08-18;Thursday;Evening;2022-08;6
+829;Cold coffee;2022-09-19;Monday;Night;2022-09;6
+831;Frankie;2022-08-01;Monday;Morning;2022-08;5
+832;Sugarcane juice;2022-06-06;Monday;Morning;2022-06;4
+833;Panipuri;2022-09-01;Thursday;Evening;2022-09;2
+834;Sugarcane juice;2022-05-25;Wednesday;Evening;2022-05;14
+835;Sugarcane juice;2022-09-27;Tuesday;Afternoon;2022-09;7
+836;Vadapav;2022-08-31;Wednesday;Midnight;2022-08;2
+837;Aalopuri;2022-05-19;Thursday;Midnight;2022-05;7
+838;Cold coffee;2022-07-31;Sunday;Morning;2022-07;9
+839;Sugarcane juice;2022-05-08;Sunday;Afternoon;2022-05;4
+841;Vadapav;2023-02-03;Friday;Night;2023-02;9
+842;Panipuri;2022-05-25;Wednesday;Evening;2022-05;2
+843;Sugarcane juice;2022-07-04;Monday;Morning;2022-07;1
+844;Sugarcane juice;2022-05-04;Wednesday;Morning;2022-05;13
+845;Cold coffee;2022-07-01;Friday;Evening;2022-07;6
+846;Aalopuri;2022-04-20;Wednesday;Afternoon;2022-04;5
+847;Panipuri;2022-08-14;Sunday;Midnight;2022-08;11
+848;Frankie;2022-11-10;Thursday;Night;2022-11;9
+849;Cold coffee;2022-11-03;Thursday;Night;2022-11;10
+850;Vadapav;2022-08-20;Saturday;Afternoon;2022-08;3
+851;Aalopuri;2023-01-28;Saturday;Night;2023-01;15
+852;Sugarcane juice;2022-05-05;Thursday;Night;2022-05;8
+853;Cold coffee;2023-02-17;Friday;Midnight;2023-02;3
+854;Cold coffee;2022-10-14;Friday;Night;2022-10;14
+855;Vadapav;2022-10-23;Sunday;Evening;2022-10;5
+856;Aalopuri;2022-05-04;Wednesday;Night;2022-05;11
+857;Sugarcane juice;2022-11-08;Tuesday;Evening;2022-11;14
+858;Cold coffee;2022-11-22;Tuesday;Evening;2022-11;9
+859;Sandwich;2022-10-08;Saturday;Midnight;2022-10;11
+860;Cold coffee;2022-07-16;Saturday;Night;2022-07;5
+861;Sugarcane juice;2023-01-24;Tuesday;Night;2023-01;8
+862;Frankie;2023-03-10;Friday;Night;2023-03;7
+863;Frankie;2022-09-08;Thursday;Night;2022-09;9
+864;Cold coffee;2022-08-20;Saturday;Morning;2022-08;9
+865;Sugarcane juice;2023-01-23;Monday;Night;2023-01;6
+866;Frankie;2022-08-13;Saturday;Midnight;2022-08;10
+867;Frankie;2023-01-26;Thursday;Midnight;2023-01;15
+868;Aalopuri;2022-08-17;Wednesday;Evening;2022-08;13
+869;Panipuri;2022-06-26;Sunday;Midnight;2022-06;9
+870;Cold coffee;2022-10-31;Monday;Afternoon;2022-10;5
+872;Sandwich;2022-07-14;Thursday;Afternoon;2022-07;12
+873;Sugarcane juice;2022-05-09;Monday;Night;2022-05;1
+874;Cold coffee;2022-05-09;Monday;Midnight;2022-05;4
+875;Vadapav;2022-08-05;Friday;Evening;2022-08;15
+876;Cold coffee;2022-06-10;Friday;Evening;2022-06;8
+877;Sugarcane juice;2022-10-27;Thursday;Afternoon;2022-10;14
+878;Sandwich;2022-08-12;Friday;Evening;2022-08;6
+879;Cold coffee;2022-11-06;Sunday;Evening;2022-11;9
+880;Sugarcane juice;2022-06-25;Saturday;Morning;2022-06;5
+881;Sandwich;2022-05-25;Wednesday;Midnight;2022-05;2
+882;Panipuri;2022-04-23;Saturday;Morning;2022-04;9
+883;Aalopuri;2022-08-24;Wednesday;Midnight;2022-08;5
+884;Vadapav;2023-03-01;Wednesday;Night;2023-03;12
+885;Sugarcane juice;2022-10-16;Sunday;Evening;2022-10;4
+886;Sugarcane juice;2022-07-21;Thursday;Night;2022-07;4
+887;Aalopuri;2022-10-24;Monday;Morning;2022-10;3
+888;Vadapav;2022-09-05;Monday;Evening;2022-09;8
+889;Vadapav;2022-04-12;Tuesday;Midnight;2022-04;10
+890;Sugarcane juice;2023-03-03;Friday;Morning;2023-03;5
+891;Cold coffee;2022-12-27;Tuesday;Midnight;2022-12;11
+892;Sugarcane juice;2022-07-14;Thursday;Evening;2022-07;7
+893;Sugarcane juice;2022-07-13;Wednesday;Afternoon;2022-07;12
+894;Sandwich;2023-03-19;Sunday;Morning;2023-03;15
+895;Sugarcane juice;2023-01-03;Tuesday;Afternoon;2023-01;11
+896;Aalopuri;2022-10-30;Sunday;Night;2022-10;13
+897;Aalopuri;2022-08-22;Monday;Morning;2022-08;6
+898;Frankie;2023-03-02;Thursday;Afternoon;2023-03;8
+899;Aalopuri;2023-01-24;Tuesday;Midnight;2023-01;7
+900;Sugarcane juice;2022-12-07;Wednesday;Afternoon;2022-12;9
+901;Vadapav;2022-12-24;Saturday;Morning;2022-12;7
+902;Frankie;2022-11-23;Wednesday;Afternoon;2022-11;4
+903;Aalopuri;2023-01-01;Sunday;Night;2023-01;15
+904;Aalopuri;2023-03-12;Sunday;Midnight;2023-03;4
+905;Frankie;2022-12-13;Tuesday;Midnight;2022-12;15
+906;Sandwich;2022-04-04;Monday;Afternoon;2022-04;15
+908;Sandwich;2023-03-06;Monday;Night;2023-03;7
+909;Cold coffee;2023-02-21;Tuesday;Morning;2023-02;12
+910;Panipuri;2022-10-09;Sunday;Afternoon;2022-10;1
+911;Sandwich;2022-04-09;Saturday;Evening;2022-04;1
+912;Aalopuri;2022-09-17;Saturday;Evening;2022-09;6
+913;Frankie;2023-02-15;Wednesday;Evening;2023-02;15
+914;Sandwich;2023-03-01;Wednesday;Night;2023-03;14
+915;Cold coffee;2022-10-07;Friday;Afternoon;2022-10;7
+917;Vadapav;2022-05-15;Sunday;Evening;2022-05;15
+918;Panipuri;2022-11-12;Saturday;Evening;2022-11;6
+919;Vadapav;2023-01-03;Tuesday;Evening;2023-01;8
+920;Frankie;2022-07-12;Tuesday;Evening;2022-07;13
+921;Vadapav;2022-09-21;Wednesday;Midnight;2022-09;14
+922;Frankie;2022-06-13;Monday;Evening;2022-06;5
+923;Cold coffee;2022-05-30;Monday;Morning;2022-05;3
+924;Panipuri;2022-12-17;Saturday;Afternoon;2022-12;14
+925;Frankie;2022-04-10;Sunday;Afternoon;2022-04;4
+926;Frankie;2023-02-27;Monday;Afternoon;2023-02;15
+928;Sandwich;2022-04-07;Thursday;Evening;2022-04;11
+929;Frankie;2022-06-06;Monday;Night;2022-06;9
+930;Sugarcane juice;2022-11-27;Sunday;Night;2022-11;10
+931;Aalopuri;2022-06-26;Sunday;Afternoon;2022-06;15
+932;Sandwich;2022-10-18;Tuesday;Afternoon;2022-10;9
+933;Sugarcane juice;2023-01-21;Saturday;Afternoon;2023-01;15
+934;Cold coffee;2022-09-19;Monday;Afternoon;2022-09;4
+935;Sandwich;2023-02-17;Friday;Midnight;2023-02;12
+937;Panipuri;2022-06-22;Wednesday;Night;2022-06;4
+938;Sugarcane juice;2022-08-10;Wednesday;Evening;2022-08;14
+939;Vadapav;2023-02-19;Sunday;Midnight;2023-02;15
+940;Sugarcane juice;2023-02-07;Tuesday;Midnight;2023-02;14
+941;Cold coffee;2023-02-10;Friday;Morning;2023-02;10
+942;Frankie;2022-07-20;Wednesday;Night;2022-07;6
+943;Vadapav;2022-06-30;Thursday;Night;2022-06;6
+944;Aalopuri;2022-05-12;Thursday;Midnight;2022-05;2
+945;Cold coffee;2022-05-15;Sunday;Afternoon;2022-05;2
+946;Sandwich;2023-02-21;Tuesday;Midnight;2023-02;8
+947;Aalopuri;2022-08-16;Tuesday;Night;2022-08;11
+948;Sandwich;2023-01-16;Monday;Evening;2023-01;10
+949;Panipuri;2023-01-07;Saturday;Evening;2023-01;1
+950;Frankie;2022-09-25;Sunday;Evening;2022-09;6
+951;Panipuri;2022-11-11;Friday;Afternoon;2022-11;11
+952;Aalopuri;2022-09-24;Saturday;Evening;2022-09;14
+953;Sandwich;2022-11-10;Thursday;Afternoon;2022-11;2
+954;Aalopuri;2023-01-31;Tuesday;Midnight;2023-01;3
+955;Sugarcane juice;2023-01-27;Friday;Afternoon;2023-01;7
+956;Frankie;2022-04-30;Saturday;Morning;2022-04;13
+957;Panipuri;2023-02-08;Wednesday;Midnight;2023-02;3
+958;Sandwich;2022-05-22;Sunday;Night;2022-05;11
+959;Vadapav;2022-11-28;Monday;Midnight;2022-11;8
+960;Sugarcane juice;2022-08-12;Friday;Evening;2022-08;15
+961;Frankie;2023-03-14;Tuesday;Night;2023-03;13
+962;Frankie;2022-05-18;Wednesday;Afternoon;2022-05;13
+963;Vadapav;2022-10-05;Wednesday;Morning;2022-10;6
+964;Cold coffee;2022-05-07;Saturday;Evening;2022-05;8
+965;Frankie;2022-10-08;Saturday;Night;2022-10;5
+966;Panipuri;2023-03-19;Sunday;Morning;2023-03;11
+967;Cold coffee;2022-06-29;Wednesday;Afternoon;2022-06;14
+968;Cold coffee;2022-08-09;Tuesday;Morning;2022-08;15
+969;Cold coffee;2022-11-06;Sunday;Morning;2022-11;11
+970;Aalopuri;2022-11-21;Monday;Afternoon;2022-11;5
+971;Frankie;2022-10-02;Sunday;Morning;2022-10;2
+972;Aalopuri;2023-03-11;Saturday;Afternoon;2023-03;1
+974;Vadapav;2023-01-28;Saturday;Afternoon;2023-01;13
+975;Aalopuri;2023-01-15;Sunday;Midnight;2023-01;1
+977;Aalopuri;2023-01-05;Thursday;Evening;2023-01;1
+978;Frankie;2022-10-08;Saturday;Night;2022-10;2
+979;Aalopuri;2022-05-21;Saturday;Midnight;2022-05;13
+980;Vadapav;2022-06-20;Monday;Morning;2022-06;9
+981;Panipuri;2023-01-22;Sunday;Midnight;2023-01;15
+982;Sugarcane juice;2023-03-30;Thursday;Night;2023-03;14
+984;Frankie;2023-01-07;Saturday;Afternoon;2023-01;3
+985;Frankie;2022-06-14;Tuesday;Afternoon;2022-06;1
+986;Sugarcane juice;2022-04-30;Saturday;Night;2022-04;13
+987;Vadapav;2023-01-04;Wednesday;Evening;2023-01;3
+989;Cold coffee;2022-10-11;Tuesday;Afternoon;2022-10;13
+990;Vadapav;2022-11-24;Thursday;Morning;2022-11;10
+991;Sandwich;2023-01-18;Wednesday;Night;2023-01;7
+992;Sandwich;2022-10-21;Friday;Morning;2022-10;5
+993;Frankie;2022-07-17;Sunday;Night;2022-07;3
+994;Panipuri;2022-11-01;Tuesday;Evening;2022-11;2
+995;Sugarcane juice;2022-06-18;Saturday;Night;2022-06;1
+1000;Aalopuri;2022-05-29;Sunday;Midnight;2022-05;3

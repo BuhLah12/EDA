@@ -1,0 +1,894 @@
+order_id;item_name;item_type
+2;Vadapav;Fastfood
+3;Vadapav;Fastfood
+4;Sugarcane juice;Beverages
+5;Sugarcane juice;Beverages
+6;Vadapav;Fastfood
+7;Sugarcane juice;Beverages
+8;Panipuri;Fastfood
+9;Panipuri;Fastfood
+10;Panipuri;Fastfood
+11;Frankie;Fastfood
+12;Vadapav;Fastfood
+13;Panipuri;Fastfood
+14;Frankie;Fastfood
+15;Aalopuri;Fastfood
+17;Panipuri;Fastfood
+18;Panipuri;Fastfood
+19;Panipuri;Fastfood
+20;Cold coffee;Beverages
+21;Cold coffee;Beverages
+22;Sugarcane juice;Beverages
+23;Sandwich;Fastfood
+24;Sugarcane juice;Beverages
+25;Sandwich;Fastfood
+26;Sugarcane juice;Beverages
+27;Cold coffee;Beverages
+28;Cold coffee;Beverages
+29;Sugarcane juice;Beverages
+30;Frankie;Fastfood
+31;Cold coffee;Beverages
+33;Aalopuri;Fastfood
+34;Frankie;Fastfood
+35;Vadapav;Fastfood
+36;Cold coffee;Beverages
+37;Frankie;Fastfood
+38;Panipuri;Fastfood
+39;Vadapav;Fastfood
+40;Sandwich;Fastfood
+42;Aalopuri;Fastfood
+43;Vadapav;Fastfood
+44;Cold coffee;Beverages
+45;Sugarcane juice;Beverages
+46;Vadapav;Fastfood
+48;Sandwich;Fastfood
+49;Frankie;Fastfood
+50;Vadapav;Fastfood
+51;Frankie;Fastfood
+52;Sugarcane juice;Beverages
+53;Aalopuri;Fastfood
+54;Panipuri;Fastfood
+55;Sandwich;Fastfood
+56;Panipuri;Fastfood
+57;Panipuri;Fastfood
+58;Vadapav;Fastfood
+59;Vadapav;Fastfood
+60;Cold coffee;Beverages
+61;Vadapav;Fastfood
+62;Sugarcane juice;Beverages
+63;Sandwich;Fastfood
+64;Cold coffee;Beverages
+65;Aalopuri;Fastfood
+66;Frankie;Fastfood
+67;Aalopuri;Fastfood
+69;Vadapav;Fastfood
+71;Cold coffee;Beverages
+72;Frankie;Fastfood
+73;Panipuri;Fastfood
+74;Cold coffee;Beverages
+75;Cold coffee;Beverages
+76;Vadapav;Fastfood
+77;Sugarcane juice;Beverages
+78;Vadapav;Fastfood
+79;Panipuri;Fastfood
+80;Frankie;Fastfood
+81;Frankie;Fastfood
+82;Frankie;Fastfood
+84;Panipuri;Fastfood
+85;Aalopuri;Fastfood
+86;Aalopuri;Fastfood
+87;Aalopuri;Fastfood
+88;Cold coffee;Beverages
+89;Aalopuri;Fastfood
+90;Vadapav;Fastfood
+92;Aalopuri;Fastfood
+93;Cold coffee;Beverages
+95;Sugarcane juice;Beverages
+97;Cold coffee;Beverages
+98;Vadapav;Fastfood
+99;Sugarcane juice;Beverages
+101;Vadapav;Fastfood
+102;Cold coffee;Beverages
+103;Cold coffee;Beverages
+104;Cold coffee;Beverages
+105;Panipuri;Fastfood
+106;Frankie;Fastfood
+107;Sandwich;Fastfood
+108;Panipuri;Fastfood
+110;Panipuri;Fastfood
+111;Sandwich;Fastfood
+112;Sandwich;Fastfood
+113;Aalopuri;Fastfood
+114;Aalopuri;Fastfood
+116;Sugarcane juice;Beverages
+117;Frankie;Fastfood
+118;Sandwich;Fastfood
+119;Panipuri;Fastfood
+120;Frankie;Fastfood
+121;Cold coffee;Beverages
+123;Cold coffee;Beverages
+125;Vadapav;Fastfood
+126;Panipuri;Fastfood
+128;Vadapav;Fastfood
+129;Panipuri;Fastfood
+130;Sugarcane juice;Beverages
+131;Sandwich;Fastfood
+132;Vadapav;Fastfood
+133;Aalopuri;Fastfood
+134;Aalopuri;Fastfood
+135;Aalopuri;Fastfood
+136;Aalopuri;Fastfood
+138;Sandwich;Fastfood
+139;Frankie;Fastfood
+140;Frankie;Fastfood
+142;Sugarcane juice;Beverages
+144;Panipuri;Fastfood
+145;Sandwich;Fastfood
+147;Panipuri;Fastfood
+148;Sandwich;Fastfood
+149;Sandwich;Fastfood
+150;Cold coffee;Beverages
+151;Frankie;Fastfood
+152;Cold coffee;Beverages
+153;Panipuri;Fastfood
+154;Vadapav;Fastfood
+155;Sugarcane juice;Beverages
+156;Panipuri;Fastfood
+157;Frankie;Fastfood
+159;Sugarcane juice;Beverages
+160;Vadapav;Fastfood
+161;Sugarcane juice;Beverages
+162;Aalopuri;Fastfood
+163;Frankie;Fastfood
+164;Sugarcane juice;Beverages
+165;Sandwich;Fastfood
+166;Panipuri;Fastfood
+167;Cold coffee;Beverages
+168;Sandwich;Fastfood
+169;Vadapav;Fastfood
+171;Vadapav;Fastfood
+172;Sugarcane juice;Beverages
+173;Cold coffee;Beverages
+174;Aalopuri;Fastfood
+175;Frankie;Fastfood
+176;Panipuri;Fastfood
+177;Panipuri;Fastfood
+178;Aalopuri;Fastfood
+180;Vadapav;Fastfood
+181;Cold coffee;Beverages
+182;Cold coffee;Beverages
+183;Sugarcane juice;Beverages
+184;Cold coffee;Beverages
+186;Frankie;Fastfood
+187;Aalopuri;Fastfood
+188;Panipuri;Fastfood
+189;Vadapav;Fastfood
+190;Cold coffee;Beverages
+191;Sugarcane juice;Beverages
+192;Vadapav;Fastfood
+193;Cold coffee;Beverages
+194;Vadapav;Fastfood
+195;Sandwich;Fastfood
+196;Sandwich;Fastfood
+197;Panipuri;Fastfood
+198;Frankie;Fastfood
+199;Frankie;Fastfood
+200;Cold coffee;Beverages
+201;Panipuri;Fastfood
+202;Aalopuri;Fastfood
+203;Vadapav;Fastfood
+204;Cold coffee;Beverages
+206;Aalopuri;Fastfood
+207;Cold coffee;Beverages
+208;Cold coffee;Beverages
+209;Aalopuri;Fastfood
+211;Aalopuri;Fastfood
+212;Cold coffee;Beverages
+214;Sugarcane juice;Beverages
+216;Panipuri;Fastfood
+217;Cold coffee;Beverages
+218;Cold coffee;Beverages
+219;Aalopuri;Fastfood
+220;Sugarcane juice;Beverages
+221;Sandwich;Fastfood
+222;Sandwich;Fastfood
+223;Panipuri;Fastfood
+224;Sugarcane juice;Beverages
+225;Frankie;Fastfood
+226;Aalopuri;Fastfood
+227;Cold coffee;Beverages
+228;Panipuri;Fastfood
+230;Frankie;Fastfood
+232;Vadapav;Fastfood
+233;Panipuri;Fastfood
+234;Panipuri;Fastfood
+235;Sandwich;Fastfood
+237;Panipuri;Fastfood
+238;Vadapav;Fastfood
+239;Frankie;Fastfood
+240;Sandwich;Fastfood
+241;Sugarcane juice;Beverages
+242;Cold coffee;Beverages
+243;Panipuri;Fastfood
+244;Sandwich;Fastfood
+245;Vadapav;Fastfood
+246;Vadapav;Fastfood
+248;Frankie;Fastfood
+249;Sugarcane juice;Beverages
+250;Sugarcane juice;Beverages
+252;Vadapav;Fastfood
+253;Sugarcane juice;Beverages
+256;Aalopuri;Fastfood
+257;Sandwich;Fastfood
+258;Vadapav;Fastfood
+259;Sandwich;Fastfood
+260;Sugarcane juice;Beverages
+261;Frankie;Fastfood
+263;Panipuri;Fastfood
+264;Sugarcane juice;Beverages
+265;Vadapav;Fastfood
+266;Frankie;Fastfood
+267;Vadapav;Fastfood
+268;Cold coffee;Beverages
+270;Sandwich;Fastfood
+271;Vadapav;Fastfood
+272;Frankie;Fastfood
+273;Panipuri;Fastfood
+274;Sugarcane juice;Beverages
+275;Vadapav;Fastfood
+276;Sugarcane juice;Beverages
+277;Cold coffee;Beverages
+278;Frankie;Fastfood
+279;Vadapav;Fastfood
+280;Panipuri;Fastfood
+281;Sandwich;Fastfood
+283;Panipuri;Fastfood
+287;Aalopuri;Fastfood
+288;Sandwich;Fastfood
+289;Aalopuri;Fastfood
+290;Panipuri;Fastfood
+291;Frankie;Fastfood
+292;Frankie;Fastfood
+293;Panipuri;Fastfood
+294;Aalopuri;Fastfood
+295;Sandwich;Fastfood
+296;Panipuri;Fastfood
+297;Sandwich;Fastfood
+298;Sugarcane juice;Beverages
+299;Aalopuri;Fastfood
+300;Aalopuri;Fastfood
+301;Panipuri;Fastfood
+302;Aalopuri;Fastfood
+303;Sugarcane juice;Beverages
+304;Vadapav;Fastfood
+306;Cold coffee;Beverages
+307;Vadapav;Fastfood
+308;Sandwich;Fastfood
+309;Sandwich;Fastfood
+310;Vadapav;Fastfood
+312;Cold coffee;Beverages
+313;Cold coffee;Beverages
+314;Frankie;Fastfood
+315;Cold coffee;Beverages
+316;Frankie;Fastfood
+317;Aalopuri;Fastfood
+318;Aalopuri;Fastfood
+319;Frankie;Fastfood
+320;Sugarcane juice;Beverages
+321;Frankie;Fastfood
+322;Cold coffee;Beverages
+323;Aalopuri;Fastfood
+324;Sugarcane juice;Beverages
+326;Sandwich;Fastfood
+327;Frankie;Fastfood
+328;Vadapav;Fastfood
+329;Panipuri;Fastfood
+331;Panipuri;Fastfood
+333;Sugarcane juice;Beverages
+334;Cold coffee;Beverages
+335;Cold coffee;Beverages
+337;Aalopuri;Fastfood
+338;Sugarcane juice;Beverages
+340;Cold coffee;Beverages
+341;Frankie;Fastfood
+342;Vadapav;Fastfood
+343;Sugarcane juice;Beverages
+344;Cold coffee;Beverages
+345;Panipuri;Fastfood
+346;Cold coffee;Beverages
+347;Frankie;Fastfood
+348;Vadapav;Fastfood
+349;Panipuri;Fastfood
+350;Cold coffee;Beverages
+351;Frankie;Fastfood
+352;Frankie;Fastfood
+353;Vadapav;Fastfood
+354;Panipuri;Fastfood
+355;Cold coffee;Beverages
+356;Sugarcane juice;Beverages
+357;Sandwich;Fastfood
+358;Aalopuri;Fastfood
+359;Aalopuri;Fastfood
+360;Cold coffee;Beverages
+362;Sugarcane juice;Beverages
+363;Frankie;Fastfood
+364;Cold coffee;Beverages
+365;Panipuri;Fastfood
+366;Sugarcane juice;Beverages
+368;Cold coffee;Beverages
+369;Sandwich;Fastfood
+371;Vadapav;Fastfood
+373;Sugarcane juice;Beverages
+374;Frankie;Fastfood
+375;Panipuri;Fastfood
+376;Frankie;Fastfood
+377;Sugarcane juice;Beverages
+378;Vadapav;Fastfood
+380;Sandwich;Fastfood
+381;Vadapav;Fastfood
+382;Cold coffee;Beverages
+383;Aalopuri;Fastfood
+384;Sugarcane juice;Beverages
+385;Vadapav;Fastfood
+386;Frankie;Fastfood
+387;Sugarcane juice;Beverages
+388;Sandwich;Fastfood
+389;Sandwich;Fastfood
+391;Aalopuri;Fastfood
+392;Aalopuri;Fastfood
+393;Sugarcane juice;Beverages
+394;Sandwich;Fastfood
+395;Sandwich;Fastfood
+396;Frankie;Fastfood
+397;Aalopuri;Fastfood
+398;Panipuri;Fastfood
+399;Panipuri;Fastfood
+400;Cold coffee;Beverages
+401;Sugarcane juice;Beverages
+402;Frankie;Fastfood
+403;Cold coffee;Beverages
+404;Frankie;Fastfood
+405;Sugarcane juice;Beverages
+406;Cold coffee;Beverages
+407;Sugarcane juice;Beverages
+408;Vadapav;Fastfood
+409;Aalopuri;Fastfood
+410;Aalopuri;Fastfood
+411;Panipuri;Fastfood
+413;Aalopuri;Fastfood
+415;Vadapav;Fastfood
+417;Panipuri;Fastfood
+418;Cold coffee;Beverages
+420;Frankie;Fastfood
+421;Cold coffee;Beverages
+422;Cold coffee;Beverages
+423;Frankie;Fastfood
+424;Sugarcane juice;Beverages
+425;Panipuri;Fastfood
+426;Frankie;Fastfood
+427;Sandwich;Fastfood
+428;Sugarcane juice;Beverages
+429;Cold coffee;Beverages
+430;Sandwich;Fastfood
+431;Panipuri;Fastfood
+432;Panipuri;Fastfood
+433;Panipuri;Fastfood
+434;Aalopuri;Fastfood
+435;Sandwich;Fastfood
+436;Frankie;Fastfood
+438;Cold coffee;Beverages
+439;Frankie;Fastfood
+440;Aalopuri;Fastfood
+441;Aalopuri;Fastfood
+442;Sugarcane juice;Beverages
+443;Sugarcane juice;Beverages
+445;Sandwich;Fastfood
+446;Cold coffee;Beverages
+447;Frankie;Fastfood
+448;Vadapav;Fastfood
+449;Frankie;Fastfood
+450;Sugarcane juice;Beverages
+451;Sugarcane juice;Beverages
+452;Frankie;Fastfood
+453;Sandwich;Fastfood
+454;Sandwich;Fastfood
+455;Cold coffee;Beverages
+457;Cold coffee;Beverages
+458;Sugarcane juice;Beverages
+459;Vadapav;Fastfood
+460;Aalopuri;Fastfood
+461;Sugarcane juice;Beverages
+462;Vadapav;Fastfood
+463;Sandwich;Fastfood
+464;Sugarcane juice;Beverages
+465;Sugarcane juice;Beverages
+466;Panipuri;Fastfood
+467;Aalopuri;Fastfood
+468;Panipuri;Fastfood
+469;Sandwich;Fastfood
+470;Vadapav;Fastfood
+471;Panipuri;Fastfood
+473;Sandwich;Fastfood
+474;Sugarcane juice;Beverages
+475;Cold coffee;Beverages
+476;Aalopuri;Fastfood
+477;Sandwich;Fastfood
+478;Sugarcane juice;Beverages
+479;Sandwich;Fastfood
+480;Vadapav;Fastfood
+481;Sugarcane juice;Beverages
+482;Aalopuri;Fastfood
+483;Panipuri;Fastfood
+484;Cold coffee;Beverages
+485;Aalopuri;Fastfood
+486;Vadapav;Fastfood
+487;Sandwich;Fastfood
+488;Cold coffee;Beverages
+489;Frankie;Fastfood
+490;Cold coffee;Beverages
+491;Vadapav;Fastfood
+492;Sandwich;Fastfood
+493;Cold coffee;Beverages
+494;Cold coffee;Beverages
+495;Aalopuri;Fastfood
+496;Cold coffee;Beverages
+497;Sandwich;Fastfood
+498;Frankie;Fastfood
+499;Sandwich;Fastfood
+500;Vadapav;Fastfood
+501;Sugarcane juice;Beverages
+502;Panipuri;Fastfood
+503;Aalopuri;Fastfood
+504;Cold coffee;Beverages
+505;Frankie;Fastfood
+506;Cold coffee;Beverages
+507;Aalopuri;Fastfood
+508;Sandwich;Fastfood
+509;Vadapav;Fastfood
+510;Sandwich;Fastfood
+511;Panipuri;Fastfood
+512;Panipuri;Fastfood
+513;Cold coffee;Beverages
+514;Cold coffee;Beverages
+516;Sugarcane juice;Beverages
+517;Panipuri;Fastfood
+518;Aalopuri;Fastfood
+519;Cold coffee;Beverages
+520;Panipuri;Fastfood
+521;Panipuri;Fastfood
+522;Panipuri;Fastfood
+523;Frankie;Fastfood
+524;Aalopuri;Fastfood
+525;Vadapav;Fastfood
+526;Sandwich;Fastfood
+527;Sugarcane juice;Beverages
+528;Sugarcane juice;Beverages
+530;Panipuri;Fastfood
+531;Cold coffee;Beverages
+532;Panipuri;Fastfood
+534;Vadapav;Fastfood
+535;Sandwich;Fastfood
+536;Sugarcane juice;Beverages
+537;Panipuri;Fastfood
+538;Panipuri;Fastfood
+539;Panipuri;Fastfood
+540;Vadapav;Fastfood
+541;Panipuri;Fastfood
+542;Sugarcane juice;Beverages
+543;Aalopuri;Fastfood
+544;Sandwich;Fastfood
+545;Sandwich;Fastfood
+546;Aalopuri;Fastfood
+547;Cold coffee;Beverages
+548;Cold coffee;Beverages
+549;Sugarcane juice;Beverages
+550;Cold coffee;Beverages
+551;Sugarcane juice;Beverages
+552;Sugarcane juice;Beverages
+553;Panipuri;Fastfood
+554;Panipuri;Fastfood
+555;Sandwich;Fastfood
+556;Vadapav;Fastfood
+557;Sandwich;Fastfood
+558;Panipuri;Fastfood
+559;Cold coffee;Beverages
+560;Sugarcane juice;Beverages
+561;Panipuri;Fastfood
+562;Frankie;Fastfood
+563;Frankie;Fastfood
+565;Panipuri;Fastfood
+566;Frankie;Fastfood
+567;Cold coffee;Beverages
+569;Cold coffee;Beverages
+570;Sugarcane juice;Beverages
+571;Sugarcane juice;Beverages
+572;Sandwich;Fastfood
+573;Frankie;Fastfood
+574;Aalopuri;Fastfood
+575;Vadapav;Fastfood
+576;Panipuri;Fastfood
+577;Cold coffee;Beverages
+578;Frankie;Fastfood
+579;Panipuri;Fastfood
+580;Panipuri;Fastfood
+581;Sugarcane juice;Beverages
+582;Aalopuri;Fastfood
+583;Frankie;Fastfood
+584;Cold coffee;Beverages
+585;Vadapav;Fastfood
+586;Sandwich;Fastfood
+587;Aalopuri;Fastfood
+588;Frankie;Fastfood
+589;Cold coffee;Beverages
+590;Panipuri;Fastfood
+591;Sandwich;Fastfood
+592;Sugarcane juice;Beverages
+593;Sugarcane juice;Beverages
+594;Frankie;Fastfood
+595;Frankie;Fastfood
+596;Cold coffee;Beverages
+597;Panipuri;Fastfood
+598;Cold coffee;Beverages
+599;Frankie;Fastfood
+600;Panipuri;Fastfood
+601;Aalopuri;Fastfood
+602;Aalopuri;Fastfood
+603;Vadapav;Fastfood
+604;Frankie;Fastfood
+606;Cold coffee;Beverages
+607;Vadapav;Fastfood
+608;Aalopuri;Fastfood
+610;Frankie;Fastfood
+611;Aalopuri;Fastfood
+612;Aalopuri;Fastfood
+613;Vadapav;Fastfood
+616;Vadapav;Fastfood
+617;Sugarcane juice;Beverages
+618;Frankie;Fastfood
+619;Sugarcane juice;Beverages
+620;Panipuri;Fastfood
+621;Aalopuri;Fastfood
+622;Panipuri;Fastfood
+623;Cold coffee;Beverages
+624;Sandwich;Fastfood
+625;Sandwich;Fastfood
+626;Cold coffee;Beverages
+627;Sugarcane juice;Beverages
+629;Sugarcane juice;Beverages
+631;Cold coffee;Beverages
+632;Panipuri;Fastfood
+633;Cold coffee;Beverages
+634;Panipuri;Fastfood
+635;Vadapav;Fastfood
+637;Aalopuri;Fastfood
+638;Cold coffee;Beverages
+639;Vadapav;Fastfood
+640;Sandwich;Fastfood
+641;Vadapav;Fastfood
+642;Cold coffee;Beverages
+643;Sugarcane juice;Beverages
+644;Panipuri;Fastfood
+645;Sandwich;Fastfood
+646;Vadapav;Fastfood
+647;Vadapav;Fastfood
+648;Sandwich;Fastfood
+649;Frankie;Fastfood
+650;Sandwich;Fastfood
+651;Sandwich;Fastfood
+652;Cold coffee;Beverages
+653;Frankie;Fastfood
+654;Vadapav;Fastfood
+655;Sugarcane juice;Beverages
+656;Sandwich;Fastfood
+659;Panipuri;Fastfood
+660;Sandwich;Fastfood
+661;Frankie;Fastfood
+662;Panipuri;Fastfood
+663;Sugarcane juice;Beverages
+664;Frankie;Fastfood
+665;Aalopuri;Fastfood
+666;Panipuri;Fastfood
+667;Vadapav;Fastfood
+668;Aalopuri;Fastfood
+669;Sandwich;Fastfood
+670;Panipuri;Fastfood
+671;Sandwich;Fastfood
+673;Sandwich;Fastfood
+675;Sandwich;Fastfood
+676;Frankie;Fastfood
+677;Cold coffee;Beverages
+678;Aalopuri;Fastfood
+679;Sandwich;Fastfood
+680;Cold coffee;Beverages
+681;Frankie;Fastfood
+682;Aalopuri;Fastfood
+683;Frankie;Fastfood
+684;Vadapav;Fastfood
+685;Aalopuri;Fastfood
+686;Cold coffee;Beverages
+687;Vadapav;Fastfood
+688;Frankie;Fastfood
+689;Vadapav;Fastfood
+690;Vadapav;Fastfood
+691;Sandwich;Fastfood
+692;Frankie;Fastfood
+693;Sugarcane juice;Beverages
+694;Panipuri;Fastfood
+695;Panipuri;Fastfood
+696;Sugarcane juice;Beverages
+697;Sugarcane juice;Beverages
+698;Panipuri;Fastfood
+699;Cold coffee;Beverages
+700;Frankie;Fastfood
+701;Sugarcane juice;Beverages
+702;Cold coffee;Beverages
+703;Panipuri;Fastfood
+704;Sandwich;Fastfood
+705;Sandwich;Fastfood
+706;Frankie;Fastfood
+707;Panipuri;Fastfood
+708;Sandwich;Fastfood
+709;Cold coffee;Beverages
+711;Aalopuri;Fastfood
+712;Vadapav;Fastfood
+713;Sugarcane juice;Beverages
+714;Sugarcane juice;Beverages
+715;Sandwich;Fastfood
+716;Panipuri;Fastfood
+718;Aalopuri;Fastfood
+719;Vadapav;Fastfood
+720;Frankie;Fastfood
+723;Cold coffee;Beverages
+724;Frankie;Fastfood
+725;Vadapav;Fastfood
+726;Panipuri;Fastfood
+727;Aalopuri;Fastfood
+728;Vadapav;Fastfood
+729;Sandwich;Fastfood
+730;Frankie;Fastfood
+731;Frankie;Fastfood
+733;Frankie;Fastfood
+734;Frankie;Fastfood
+735;Panipuri;Fastfood
+737;Frankie;Fastfood
+738;Sandwich;Fastfood
+739;Aalopuri;Fastfood
+740;Aalopuri;Fastfood
+741;Aalopuri;Fastfood
+742;Panipuri;Fastfood
+743;Panipuri;Fastfood
+744;Frankie;Fastfood
+745;Aalopuri;Fastfood
+746;Sugarcane juice;Beverages
+747;Cold coffee;Beverages
+748;Sandwich;Fastfood
+749;Vadapav;Fastfood
+750;Frankie;Fastfood
+751;Vadapav;Fastfood
+752;Panipuri;Fastfood
+753;Sugarcane juice;Beverages
+754;Sugarcane juice;Beverages
+755;Aalopuri;Fastfood
+756;Sugarcane juice;Beverages
+757;Sugarcane juice;Beverages
+758;Vadapav;Fastfood
+759;Sugarcane juice;Beverages
+760;Sugarcane juice;Beverages
+762;Vadapav;Fastfood
+764;Sandwich;Fastfood
+765;Sandwich;Fastfood
+766;Sandwich;Fastfood
+767;Frankie;Fastfood
+768;Sandwich;Fastfood
+769;Frankie;Fastfood
+770;Aalopuri;Fastfood
+771;Panipuri;Fastfood
+772;Cold coffee;Beverages
+773;Cold coffee;Beverages
+774;Vadapav;Fastfood
+775;Sandwich;Fastfood
+776;Frankie;Fastfood
+777;Panipuri;Fastfood
+778;Frankie;Fastfood
+780;Sugarcane juice;Beverages
+781;Aalopuri;Fastfood
+782;Aalopuri;Fastfood
+783;Aalopuri;Fastfood
+784;Vadapav;Fastfood
+785;Aalopuri;Fastfood
+786;Sandwich;Fastfood
+787;Aalopuri;Fastfood
+788;Sugarcane juice;Beverages
+789;Sugarcane juice;Beverages
+790;Panipuri;Fastfood
+792;Vadapav;Fastfood
+793;Sandwich;Fastfood
+794;Sugarcane juice;Beverages
+795;Vadapav;Fastfood
+796;Sugarcane juice;Beverages
+797;Cold coffee;Beverages
+799;Panipuri;Fastfood
+800;Cold coffee;Beverages
+801;Aalopuri;Fastfood
+802;Sandwich;Fastfood
+804;Cold coffee;Beverages
+805;Sugarcane juice;Beverages
+806;Vadapav;Fastfood
+807;Frankie;Fastfood
+808;Panipuri;Fastfood
+809;Panipuri;Fastfood
+810;Vadapav;Fastfood
+811;Aalopuri;Fastfood
+812;Panipuri;Fastfood
+813;Panipuri;Fastfood
+814;Vadapav;Fastfood
+815;Cold coffee;Beverages
+816;Sugarcane juice;Beverages
+817;Aalopuri;Fastfood
+818;Frankie;Fastfood
+819;Vadapav;Fastfood
+821;Aalopuri;Fastfood
+822;Panipuri;Fastfood
+823;Panipuri;Fastfood
+824;Vadapav;Fastfood
+825;Panipuri;Fastfood
+826;Sandwich;Fastfood
+827;Sandwich;Fastfood
+828;Panipuri;Fastfood
+829;Cold coffee;Beverages
+831;Frankie;Fastfood
+832;Sugarcane juice;Beverages
+833;Panipuri;Fastfood
+834;Sugarcane juice;Beverages
+835;Sugarcane juice;Beverages
+836;Vadapav;Fastfood
+837;Aalopuri;Fastfood
+838;Cold coffee;Beverages
+839;Sugarcane juice;Beverages
+841;Vadapav;Fastfood
+842;Panipuri;Fastfood
+843;Sugarcane juice;Beverages
+844;Sugarcane juice;Beverages
+845;Cold coffee;Beverages
+846;Aalopuri;Fastfood
+847;Panipuri;Fastfood
+848;Frankie;Fastfood
+849;Cold coffee;Beverages
+850;Vadapav;Fastfood
+851;Aalopuri;Fastfood
+852;Sugarcane juice;Beverages
+853;Cold coffee;Beverages
+854;Cold coffee;Beverages
+855;Vadapav;Fastfood
+856;Aalopuri;Fastfood
+857;Sugarcane juice;Beverages
+858;Cold coffee;Beverages
+859;Sandwich;Fastfood
+860;Cold coffee;Beverages
+861;Sugarcane juice;Beverages
+862;Frankie;Fastfood
+863;Frankie;Fastfood
+864;Cold coffee;Beverages
+865;Sugarcane juice;Beverages
+866;Frankie;Fastfood
+867;Frankie;Fastfood
+868;Aalopuri;Fastfood
+869;Panipuri;Fastfood
+870;Cold coffee;Beverages
+872;Sandwich;Fastfood
+873;Sugarcane juice;Beverages
+874;Cold coffee;Beverages
+875;Vadapav;Fastfood
+876;Cold coffee;Beverages
+877;Sugarcane juice;Beverages
+878;Sandwich;Fastfood
+879;Cold coffee;Beverages
+880;Sugarcane juice;Beverages
+881;Sandwich;Fastfood
+882;Panipuri;Fastfood
+883;Aalopuri;Fastfood
+884;Vadapav;Fastfood
+885;Sugarcane juice;Beverages
+886;Sugarcane juice;Beverages
+887;Aalopuri;Fastfood
+888;Vadapav;Fastfood
+889;Vadapav;Fastfood
+890;Sugarcane juice;Beverages
+891;Cold coffee;Beverages
+892;Sugarcane juice;Beverages
+893;Sugarcane juice;Beverages
+894;Sandwich;Fastfood
+895;Sugarcane juice;Beverages
+896;Aalopuri;Fastfood
+897;Aalopuri;Fastfood
+898;Frankie;Fastfood
+899;Aalopuri;Fastfood
+900;Sugarcane juice;Beverages
+901;Vadapav;Fastfood
+902;Frankie;Fastfood
+903;Aalopuri;Fastfood
+904;Aalopuri;Fastfood
+905;Frankie;Fastfood
+906;Sandwich;Fastfood
+908;Sandwich;Fastfood
+909;Cold coffee;Beverages
+910;Panipuri;Fastfood
+911;Sandwich;Fastfood
+912;Aalopuri;Fastfood
+913;Frankie;Fastfood
+914;Sandwich;Fastfood
+915;Cold coffee;Beverages
+917;Vadapav;Fastfood
+918;Panipuri;Fastfood
+919;Vadapav;Fastfood
+920;Frankie;Fastfood
+921;Vadapav;Fastfood
+922;Frankie;Fastfood
+923;Cold coffee;Beverages
+924;Panipuri;Fastfood
+925;Frankie;Fastfood
+926;Frankie;Fastfood
+928;Sandwich;Fastfood
+929;Frankie;Fastfood
+930;Sugarcane juice;Beverages
+931;Aalopuri;Fastfood
+932;Sandwich;Fastfood
+933;Sugarcane juice;Beverages
+934;Cold coffee;Beverages
+935;Sandwich;Fastfood
+937;Panipuri;Fastfood
+938;Sugarcane juice;Beverages
+939;Vadapav;Fastfood
+940;Sugarcane juice;Beverages
+941;Cold coffee;Beverages
+942;Frankie;Fastfood
+943;Vadapav;Fastfood
+944;Aalopuri;Fastfood
+945;Cold coffee;Beverages
+946;Sandwich;Fastfood
+947;Aalopuri;Fastfood
+948;Sandwich;Fastfood
+949;Panipuri;Fastfood
+950;Frankie;Fastfood
+951;Panipuri;Fastfood
+952;Aalopuri;Fastfood
+953;Sandwich;Fastfood
+954;Aalopuri;Fastfood
+955;Sugarcane juice;Beverages
+956;Frankie;Fastfood
+957;Panipuri;Fastfood
+958;Sandwich;Fastfood
+959;Vadapav;Fastfood
+960;Sugarcane juice;Beverages
+961;Frankie;Fastfood
+962;Frankie;Fastfood
+963;Vadapav;Fastfood
+964;Cold coffee;Beverages
+965;Frankie;Fastfood
+966;Panipuri;Fastfood
+967;Cold coffee;Beverages
+968;Cold coffee;Beverages
+969;Cold coffee;Beverages
+970;Aalopuri;Fastfood
+971;Frankie;Fastfood
+972;Aalopuri;Fastfood
+974;Vadapav;Fastfood
+975;Aalopuri;Fastfood
+977;Aalopuri;Fastfood
+978;Frankie;Fastfood
+979;Aalopuri;Fastfood
+980;Vadapav;Fastfood
+981;Panipuri;Fastfood
+982;Sugarcane juice;Beverages
+984;Frankie;Fastfood
+985;Frankie;Fastfood
+986;Sugarcane juice;Beverages
+987;Vadapav;Fastfood
+989;Cold coffee;Beverages
+990;Vadapav;Fastfood
+991;Sandwich;Fastfood
+992;Sandwich;Fastfood
+993;Frankie;Fastfood
+994;Panipuri;Fastfood
+995;Sugarcane juice;Beverages
+1000;Aalopuri;Fastfood

@@ -1,0 +1,36 @@
+item_name;time_of_sale;count
+Aalopuri;Midnight;30
+Aalopuri;Morning;25
+Aalopuri;Afternoon;24
+Aalopuri;Night;23
+Aalopuri;Evening;17
+Cold coffee;Night;33
+Cold coffee;Morning;28
+Cold coffee;Evening;27
+Cold coffee;Afternoon;27
+Cold coffee;Midnight;23
+Frankie;Night;31
+Frankie;Afternoon;28
+Frankie;Evening;26
+Frankie;Midnight;22
+Frankie;Morning;20
+Panipuri;Evening;35
+Panipuri;Morning;26
+Panipuri;Midnight;26
+Panipuri;Night;25
+Panipuri;Afternoon;23
+Sandwich;Evening;27
+Sandwich;Night;26
+Sandwich;Midnight;24
+Sandwich;Morning;21
+Sandwich;Afternoon;19
+Sugarcane juice;Afternoon;39
+Sugarcane juice;Evening;30
+Sugarcane juice;Night;24
+Sugarcane juice;Midnight;22
+Sugarcane juice;Morning;21
+Vadapav;Midnight;30
+Vadapav;Morning;27
+Vadapav;Evening;23
+Vadapav;Afternoon;21
+Vadapav;Night;20

@@ -1,0 +1,894 @@
+order_id;item_name;item_price;quantity
+2;Vadapav;20;15
+3;Vadapav;20;1
+4;Sugarcane juice;25;6
+5;Sugarcane juice;25;8
+6;Vadapav;20;10
+7;Sugarcane juice;25;9
+8;Panipuri;20;14
+9;Panipuri;20;1
+10;Panipuri;20;5
+11;Frankie;50;8
+12;Vadapav;20;8
+13;Panipuri;20;9
+14;Frankie;50;4
+15;Aalopuri;20;3
+17;Panipuri;20;11
+18;Panipuri;20;10
+19;Panipuri;20;11
+20;Cold coffee;40;10
+21;Cold coffee;40;15
+22;Sugarcane juice;25;12
+23;Sandwich;60;3
+24;Sugarcane juice;25;10
+25;Sandwich;60;1
+26;Sugarcane juice;25;4
+27;Cold coffee;40;11
+28;Cold coffee;40;10
+29;Sugarcane juice;25;9
+30;Frankie;50;2
+31;Cold coffee;40;13
+33;Aalopuri;20;13
+34;Frankie;50;12
+35;Vadapav;20;8
+36;Cold coffee;40;10
+37;Frankie;50;10
+38;Panipuri;20;12
+39;Vadapav;20;2
+40;Sandwich;60;5
+42;Aalopuri;20;8
+43;Vadapav;20;1
+44;Cold coffee;40;12
+45;Sugarcane juice;25;6
+46;Vadapav;20;7
+48;Sandwich;60;14
+49;Frankie;50;4
+50;Vadapav;20;8
+51;Frankie;50;15
+52;Sugarcane juice;25;12
+53;Aalopuri;20;13
+54;Panipuri;20;14
+55;Sandwich;60;10
+56;Panipuri;20;11
+57;Panipuri;20;14
+58;Vadapav;20;6
+59;Vadapav;20;5
+60;Cold coffee;40;2
+61;Vadapav;20;14
+62;Sugarcane juice;25;3
+63;Sandwich;60;7
+64;Cold coffee;40;1
+65;Aalopuri;20;4
+66;Frankie;50;2
+67;Aalopuri;20;9
+69;Vadapav;20;7
+71;Cold coffee;40;6
+72;Frankie;50;13
+73;Panipuri;20;5
+74;Cold coffee;40;10
+75;Cold coffee;40;6
+76;Vadapav;20;9
+77;Sugarcane juice;25;12
+78;Vadapav;20;4
+79;Panipuri;20;6
+80;Frankie;50;13
+81;Frankie;50;12
+82;Frankie;50;3
+84;Panipuri;20;13
+85;Aalopuri;20;3
+86;Aalopuri;20;15
+87;Aalopuri;20;8
+88;Cold coffee;40;10
+89;Aalopuri;20;14
+90;Vadapav;20;15
+92;Aalopuri;20;15
+93;Cold coffee;40;2
+95;Sugarcane juice;25;8
+97;Cold coffee;40;13
+98;Vadapav;20;1
+99;Sugarcane juice;25;3
+101;Vadapav;20;3
+102;Cold coffee;40;14
+103;Cold coffee;40;8
+104;Cold coffee;40;13
+105;Panipuri;20;8
+106;Frankie;50;9
+107;Sandwich;60;4
+108;Panipuri;20;5
+110;Panipuri;20;2
+111;Sandwich;60;8
+112;Sandwich;60;7
+113;Aalopuri;20;8
+114;Aalopuri;20;10
+116;Sugarcane juice;25;13
+117;Frankie;50;7
+118;Sandwich;60;1
+119;Panipuri;20;10
+120;Frankie;50;2
+121;Cold coffee;40;8
+123;Cold coffee;40;6
+125;Vadapav;20;7
+126;Panipuri;20;11
+128;Vadapav;20;11
+129;Panipuri;20;13
+130;Sugarcane juice;25;7
+131;Sandwich;60;8
+132;Vadapav;20;4
+133;Aalopuri;20;5
+134;Aalopuri;20;12
+135;Aalopuri;20;8
+136;Aalopuri;20;15
+138;Sandwich;60;15
+139;Frankie;50;11
+140;Frankie;50;13
+142;Sugarcane juice;25;12
+144;Panipuri;20;10
+145;Sandwich;60;14
+147;Panipuri;20;7
+148;Sandwich;60;13
+149;Sandwich;60;7
+150;Cold coffee;40;14
+151;Frankie;50;13
+152;Cold coffee;40;9
+153;Panipuri;20;1
+154;Vadapav;20;3
+155;Sugarcane juice;25;10
+156;Panipuri;20;14
+157;Frankie;50;7
+159;Sugarcane juice;25;1
+160;Vadapav;20;10
+161;Sugarcane juice;25;12
+162;Aalopuri;20;11
+163;Frankie;50;6
+164;Sugarcane juice;25;7
+165;Sandwich;60;11
+166;Panipuri;20;6
+167;Cold coffee;40;6
+168;Sandwich;60;4
+169;Vadapav;20;6
+171;Vadapav;20;11
+172;Sugarcane juice;25;6
+173;Cold coffee;40;2
+174;Aalopuri;20;2
+175;Frankie;50;12
+176;Panipuri;20;1
+177;Panipuri;20;11
+178;Aalopuri;20;2
+180;Vadapav;20;6
+181;Cold coffee;40;7
+182;Cold coffee;40;1
+183;Sugarcane juice;25;5
+184;Cold coffee;40;8
+186;Frankie;50;2
+187;Aalopuri;20;15
+188;Panipuri;20;14
+189;Vadapav;20;12
+190;Cold coffee;40;1
+191;Sugarcane juice;25;14
+192;Vadapav;20;2
+193;Cold coffee;40;15
+194;Vadapav;20;4
+195;Sandwich;60;4
+196;Sandwich;60;3
+197;Panipuri;20;10
+198;Frankie;50;15
+199;Frankie;50;6
+200;Cold coffee;40;10
+201;Panipuri;20;8
+202;Aalopuri;20;9
+203;Vadapav;20;6
+204;Cold coffee;40;7
+206;Aalopuri;20;4
+207;Cold coffee;40;8
+208;Cold coffee;40;13
+209;Aalopuri;20;2
+211;Aalopuri;20;12
+212;Cold coffee;40;12
+214;Sugarcane juice;25;14
+216;Panipuri;20;9
+217;Cold coffee;40;10
+218;Cold coffee;40;13
+219;Aalopuri;20;9
+220;Sugarcane juice;25;1
+221;Sandwich;60;1
+222;Sandwich;60;6
+223;Panipuri;20;13
+224;Sugarcane juice;25;14
+225;Frankie;50;11
+226;Aalopuri;20;13
+227;Cold coffee;40;5
+228;Panipuri;20;8
+230;Frankie;50;6
+232;Vadapav;20;13
+233;Panipuri;20;5
+234;Panipuri;20;10
+235;Sandwich;60;10
+237;Panipuri;20;13
+238;Vadapav;20;13
+239;Frankie;50;4
+240;Sandwich;60;10
+241;Sugarcane juice;25;2
+242;Cold coffee;40;4
+243;Panipuri;20;5
+244;Sandwich;60;10
+245;Vadapav;20;2
+246;Vadapav;20;10
+248;Frankie;50;5
+249;Sugarcane juice;25;3
+250;Sugarcane juice;25;6
+252;Vadapav;20;8
+253;Sugarcane juice;25;13
+256;Aalopuri;20;3
+257;Sandwich;60;10
+258;Vadapav;20;14
+259;Sandwich;60;4
+260;Sugarcane juice;25;2
+261;Frankie;50;9
+263;Panipuri;20;2
+264;Sugarcane juice;25;12
+265;Vadapav;20;6
+266;Frankie;50;10
+267;Vadapav;20;1
+268;Cold coffee;40;12
+270;Sandwich;60;13
+271;Vadapav;20;13
+272;Frankie;50;5
+273;Panipuri;20;15
+274;Sugarcane juice;25;10
+275;Vadapav;20;15
+276;Sugarcane juice;25;6
+277;Cold coffee;40;13
+278;Frankie;50;6
+279;Vadapav;20;15
+280;Panipuri;20;14
+281;Sandwich;60;3
+283;Panipuri;20;2
+287;Aalopuri;20;3
+288;Sandwich;60;7
+289;Aalopuri;20;7
+290;Panipuri;20;7
+291;Frankie;50;8
+292;Frankie;50;2
+293;Panipuri;20;8
+294;Aalopuri;20;1
+295;Sandwich;60;7
+296;Panipuri;20;7
+297;Sandwich;60;10
+298;Sugarcane juice;25;9
+299;Aalopuri;20;1
+300;Aalopuri;20;8
+301;Panipuri;20;7
+302;Aalopuri;20;14
+303;Sugarcane juice;25;1
+304;Vadapav;20;15
+306;Cold coffee;40;8
+307;Vadapav;20;8
+308;Sandwich;60;13
+309;Sandwich;60;8
+310;Vadapav;20;4
+312;Cold coffee;40;1
+313;Cold coffee;40;1
+314;Frankie;50;8
+315;Cold coffee;40;13
+316;Frankie;50;4
+317;Aalopuri;20;12
+318;Aalopuri;20;10
+319;Frankie;50;15
+320;Sugarcane juice;25;7
+321;Frankie;50;12
+322;Cold coffee;40;11
+323;Aalopuri;20;4
+324;Sugarcane juice;25;15
+326;Sandwich;60;8
+327;Frankie;50;15
+328;Vadapav;20;3
+329;Panipuri;20;7
+331;Panipuri;20;4
+333;Sugarcane juice;25;11
+334;Cold coffee;40;4
+335;Cold coffee;40;11
+337;Aalopuri;20;14
+338;Sugarcane juice;25;12
+340;Cold coffee;40;4
+341;Frankie;50;9
+342;Vadapav;20;7
+343;Sugarcane juice;25;5
+344;Cold coffee;40;14
+345;Panipuri;20;14
+346;Cold coffee;40;12
+347;Frankie;50;7
+348;Vadapav;20;1
+349;Panipuri;20;5
+350;Cold coffee;40;8
+351;Frankie;50;5
+352;Frankie;50;11
+353;Vadapav;20;4
+354;Panipuri;20;14
+355;Cold coffee;40;4
+356;Sugarcane juice;25;14
+357;Sandwich;60;9
+358;Aalopuri;20;6
+359;Aalopuri;20;13
+360;Cold coffee;40;2
+362;Sugarcane juice;25;2
+363;Frankie;50;9
+364;Cold coffee;40;2
+365;Panipuri;20;10
+366;Sugarcane juice;25;10
+368;Cold coffee;40;2
+369;Sandwich;60;2
+371;Vadapav;20;5
+373;Sugarcane juice;25;12
+374;Frankie;50;10
+375;Panipuri;20;13
+376;Frankie;50;15
+377;Sugarcane juice;25;3
+378;Vadapav;20;2
+380;Sandwich;60;5
+381;Vadapav;20;1
+382;Cold coffee;40;9
+383;Aalopuri;20;7
+384;Sugarcane juice;25;1
+385;Vadapav;20;5
+386;Frankie;50;5
+387;Sugarcane juice;25;14
+388;Sandwich;60;14
+389;Sandwich;60;12
+391;Aalopuri;20;1
+392;Aalopuri;20;15
+393;Sugarcane juice;25;10
+394;Sandwich;60;1
+395;Sandwich;60;3
+396;Frankie;50;15
+397;Aalopuri;20;2
+398;Panipuri;20;6
+399;Panipuri;20;9
+400;Cold coffee;40;15
+401;Sugarcane juice;25;8
+402;Frankie;50;7
+403;Cold coffee;40;3
+404;Frankie;50;7
+405;Sugarcane juice;25;10
+406;Cold coffee;40;4
+407;Sugarcane juice;25;2
+408;Vadapav;20;4
+409;Aalopuri;20;9
+410;Aalopuri;20;15
+411;Panipuri;20;12
+413;Aalopuri;20;10
+415;Vadapav;20;8
+417;Panipuri;20;3
+418;Cold coffee;40;7
+420;Frankie;50;13
+421;Cold coffee;40;2
+422;Cold coffee;40;7
+423;Frankie;50;7
+424;Sugarcane juice;25;9
+425;Panipuri;20;14
+426;Frankie;50;14
+427;Sandwich;60;2
+428;Sugarcane juice;25;8
+429;Cold coffee;40;3
+430;Sandwich;60;4
+431;Panipuri;20;6
+432;Panipuri;20;6
+433;Panipuri;20;14
+434;Aalopuri;20;12
+435;Sandwich;60;1
+436;Frankie;50;10
+438;Cold coffee;40;5
+439;Frankie;50;13
+440;Aalopuri;20;7
+441;Aalopuri;20;1
+442;Sugarcane juice;25;7
+443;Sugarcane juice;25;12
+445;Sandwich;60;14
+446;Cold coffee;40;9
+447;Frankie;50;6
+448;Vadapav;20;6
+449;Frankie;50;4
+450;Sugarcane juice;25;1
+451;Sugarcane juice;25;10
+452;Frankie;50;5
+453;Sandwich;60;1
+454;Sandwich;60;1
+455;Cold coffee;40;11
+457;Cold coffee;40;11
+458;Sugarcane juice;25;8
+459;Vadapav;20;14
+460;Aalopuri;20;2
+461;Sugarcane juice;25;5
+462;Vadapav;20;3
+463;Sandwich;60;6
+464;Sugarcane juice;25;13
+465;Sugarcane juice;25;12
+466;Panipuri;20;6
+467;Aalopuri;20;11
+468;Panipuri;20;2
+469;Sandwich;60;7
+470;Vadapav;20;8
+471;Panipuri;20;7
+473;Sandwich;60;5
+474;Sugarcane juice;25;15
+475;Cold coffee;40;6
+476;Aalopuri;20;10
+477;Sandwich;60;15
+478;Sugarcane juice;25;9
+479;Sandwich;60;11
+480;Vadapav;20;12
+481;Sugarcane juice;25;4
+482;Aalopuri;20;1
+483;Panipuri;20;9
+484;Cold coffee;40;5
+485;Aalopuri;20;6
+486;Vadapav;20;6
+487;Sandwich;60;9
+488;Cold coffee;40;10
+489;Frankie;50;13
+490;Cold coffee;40;8
+491;Vadapav;20;2
+492;Sandwich;60;15
+493;Cold coffee;40;2
+494;Cold coffee;40;10
+495;Aalopuri;20;13
+496;Cold coffee;40;10
+497;Sandwich;60;7
+498;Frankie;50;1
+499;Sandwich;60;8
+500;Vadapav;20;4
+501;Sugarcane juice;25;14
+502;Panipuri;20;13
+503;Aalopuri;20;13
+504;Cold coffee;40;8
+505;Frankie;50;4
+506;Cold coffee;40;12
+507;Aalopuri;20;14
+508;Sandwich;60;1
+509;Vadapav;20;11
+510;Sandwich;60;14
+511;Panipuri;20;4
+512;Panipuri;20;3
+513;Cold coffee;40;5
+514;Cold coffee;40;8
+516;Sugarcane juice;25;12
+517;Panipuri;20;13
+518;Aalopuri;20;6
+519;Cold coffee;40;10
+520;Panipuri;20;11
+521;Panipuri;20;14
+522;Panipuri;20;13
+523;Frankie;50;6
+524;Aalopuri;20;13
+525;Vadapav;20;3
+526;Sandwich;60;10
+527;Sugarcane juice;25;6
+528;Sugarcane juice;25;7
+530;Panipuri;20;6
+531;Cold coffee;40;10
+532;Panipuri;20;13
+534;Vadapav;20;2
+535;Sandwich;60;4
+536;Sugarcane juice;25;7
+537;Panipuri;20;3
+538;Panipuri;20;7
+539;Panipuri;20;3
+540;Vadapav;20;13
+541;Panipuri;20;12
+542;Sugarcane juice;25;9
+543;Aalopuri;20;15
+544;Sandwich;60;15
+545;Sandwich;60;13
+546;Aalopuri;20;1
+547;Cold coffee;40;10
+548;Cold coffee;40;14
+549;Sugarcane juice;25;3
+550;Cold coffee;40;15
+551;Sugarcane juice;25;7
+552;Sugarcane juice;25;15
+553;Panipuri;20;14
+554;Panipuri;20;4
+555;Sandwich;60;6
+556;Vadapav;20;9
+557;Sandwich;60;2
+558;Panipuri;20;5
+559;Cold coffee;40;5
+560;Sugarcane juice;25;1
+561;Panipuri;20;1
+562;Frankie;50;4
+563;Frankie;50;7
+565;Panipuri;20;15
+566;Frankie;50;3
+567;Cold coffee;40;7
+569;Cold coffee;40;15
+570;Sugarcane juice;25;4
+571;Sugarcane juice;25;1
+572;Sandwich;60;15
+573;Frankie;50;2
+574;Aalopuri;20;1
+575;Vadapav;20;1
+576;Panipuri;20;12
+577;Cold coffee;40;7
+578;Frankie;50;5
+579;Panipuri;20;2
+580;Panipuri;20;10
+581;Sugarcane juice;25;13
+582;Aalopuri;20;13
+583;Frankie;50;8
+584;Cold coffee;40;15
+585;Vadapav;20;11
+586;Sandwich;60;15
+587;Aalopuri;20;10
+588;Frankie;50;11
+589;Cold coffee;40;5
+590;Panipuri;20;15
+591;Sandwich;60;13
+592;Sugarcane juice;25;7
+593;Sugarcane juice;25;9
+594;Frankie;50;6
+595;Frankie;50;9
+596;Cold coffee;40;1
+597;Panipuri;20;10
+598;Cold coffee;40;8
+599;Frankie;50;13
+600;Panipuri;20;6
+601;Aalopuri;20;12
+602;Aalopuri;20;10
+603;Vadapav;20;10
+604;Frankie;50;10
+606;Cold coffee;40;6
+607;Vadapav;20;9
+608;Aalopuri;20;1
+610;Frankie;50;13
+611;Aalopuri;20;2
+612;Aalopuri;20;3
+613;Vadapav;20;5
+616;Vadapav;20;6
+617;Sugarcane juice;25;2
+618;Frankie;50;1
+619;Sugarcane juice;25;4
+620;Panipuri;20;12
+621;Aalopuri;20;2
+622;Panipuri;20;13
+623;Cold coffee;40;15
+624;Sandwich;60;9
+625;Sandwich;60;15
+626;Cold coffee;40;15
+627;Sugarcane juice;25;15
+629;Sugarcane juice;25;9
+631;Cold coffee;40;13
+632;Panipuri;20;9
+633;Cold coffee;40;3
+634;Panipuri;20;13
+635;Vadapav;20;15
+637;Aalopuri;20;7
+638;Cold coffee;40;11
+639;Vadapav;20;14
+640;Sandwich;60;15
+641;Vadapav;20;15
+642;Cold coffee;40;10
+643;Sugarcane juice;25;2
+644;Panipuri;20;5
+645;Sandwich;60;9
+646;Vadapav;20;14
+647;Vadapav;20;3
+648;Sandwich;60;7
+649;Frankie;50;9
+650;Sandwich;60;13
+651;Sandwich;60;10
+652;Cold coffee;40;13
+653;Frankie;50;10
+654;Vadapav;20;9
+655;Sugarcane juice;25;12
+656;Sandwich;60;6
+659;Panipuri;20;2
+660;Sandwich;60;9
+661;Frankie;50;7
+662;Panipuri;20;3
+663;Sugarcane juice;25;1
+664;Frankie;50;10
+665;Aalopuri;20;14
+666;Panipuri;20;9
+667;Vadapav;20;3
+668;Aalopuri;20;4
+669;Sandwich;60;11
+670;Panipuri;20;15
+671;Sandwich;60;2
+673;Sandwich;60;12
+675;Sandwich;60;12
+676;Frankie;50;7
+677;Cold coffee;40;3
+678;Aalopuri;20;3
+679;Sandwich;60;12
+680;Cold coffee;40;4
+681;Frankie;50;9
+682;Aalopuri;20;14
+683;Frankie;50;15
+684;Vadapav;20;5
+685;Aalopuri;20;3
+686;Cold coffee;40;5
+687;Vadapav;20;10
+688;Frankie;50;5
+689;Vadapav;20;6
+690;Vadapav;20;9
+691;Sandwich;60;7
+692;Frankie;50;14
+693;Sugarcane juice;25;13
+694;Panipuri;20;14
+695;Panipuri;20;10
+696;Sugarcane juice;25;3
+697;Sugarcane juice;25;5
+698;Panipuri;20;10
+699;Cold coffee;40;1
+700;Frankie;50;6
+701;Sugarcane juice;25;14
+702;Cold coffee;40;13
+703;Panipuri;20;10
+704;Sandwich;60;1
+705;Sandwich;60;6
+706;Frankie;50;8
+707;Panipuri;20;2
+708;Sandwich;60;5
+709;Cold coffee;40;6
+711;Aalopuri;20;3
+712;Vadapav;20;3
+713;Sugarcane juice;25;14
+714;Sugarcane juice;25;14
+715;Sandwich;60;1
+716;Panipuri;20;9
+718;Aalopuri;20;2
+719;Vadapav;20;15
+720;Frankie;50;14
+723;Cold coffee;40;10
+724;Frankie;50;10
+725;Vadapav;20;6
+726;Panipuri;20;1
+727;Aalopuri;20;5
+728;Vadapav;20;1
+729;Sandwich;60;7
+730;Frankie;50;13
+731;Frankie;50;10
+733;Frankie;50;10
+734;Frankie;50;7
+735;Panipuri;20;11
+737;Frankie;50;13
+738;Sandwich;60;4
+739;Aalopuri;20;11
+740;Aalopuri;20;9
+741;Aalopuri;20;5
+742;Panipuri;20;14
+743;Panipuri;20;1
+744;Frankie;50;10
+745;Aalopuri;20;2
+746;Sugarcane juice;25;5
+747;Cold coffee;40;3
+748;Sandwich;60;14
+749;Vadapav;20;11
+750;Frankie;50;1
+751;Vadapav;20;2
+752;Panipuri;20;2
+753;Sugarcane juice;25;1
+754;Sugarcane juice;25;14
+755;Aalopuri;20;12
+756;Sugarcane juice;25;10
+757;Sugarcane juice;25;11
+758;Vadapav;20;3
+759;Sugarcane juice;25;13
+760;Sugarcane juice;25;1
+762;Vadapav;20;12
+764;Sandwich;60;7
+765;Sandwich;60;13
+766;Sandwich;60;10
+767;Frankie;50;8
+768;Sandwich;60;14
+769;Frankie;50;8
+770;Aalopuri;20;8
+771;Panipuri;20;5
+772;Cold coffee;40;9
+773;Cold coffee;40;7
+774;Vadapav;20;1
+775;Sandwich;60;6
+776;Frankie;50;10
+777;Panipuri;20;13
+778;Frankie;50;13
+780;Sugarcane juice;25;13
+781;Aalopuri;20;10
+782;Aalopuri;20;5
+783;Aalopuri;20;8
+784;Vadapav;20;8
+785;Aalopuri;20;2
+786;Sandwich;60;14
+787;Aalopuri;20;2
+788;Sugarcane juice;25;7
+789;Sugarcane juice;25;7
+790;Panipuri;20;3
+792;Vadapav;20;2
+793;Sandwich;60;6
+794;Sugarcane juice;25;5
+795;Vadapav;20;9
+796;Sugarcane juice;25;14
+797;Cold coffee;40;11
+799;Panipuri;20;1
+800;Cold coffee;40;14
+801;Aalopuri;20;7
+802;Sandwich;60;7
+804;Cold coffee;40;12
+805;Sugarcane juice;25;1
+806;Vadapav;20;3
+807;Frankie;50;1
+808;Panipuri;20;1
+809;Panipuri;20;10
+810;Vadapav;20;3
+811;Aalopuri;20;13
+812;Panipuri;20;5
+813;Panipuri;20;10
+814;Vadapav;20;13
+815;Cold coffee;40;12
+816;Sugarcane juice;25;11
+817;Aalopuri;20;12
+818;Frankie;50;6
+819;Vadapav;20;10
+821;Aalopuri;20;12
+822;Panipuri;20;12
+823;Panipuri;20;11
+824;Vadapav;20;2
+825;Panipuri;20;14
+826;Sandwich;60;15
+827;Sandwich;60;12
+828;Panipuri;20;6
+829;Cold coffee;40;6
+831;Frankie;50;5
+832;Sugarcane juice;25;4
+833;Panipuri;20;2
+834;Sugarcane juice;25;14
+835;Sugarcane juice;25;7
+836;Vadapav;20;2
+837;Aalopuri;20;7
+838;Cold coffee;40;9
+839;Sugarcane juice;25;4
+841;Vadapav;20;9
+842;Panipuri;20;2
+843;Sugarcane juice;25;1
+844;Sugarcane juice;25;13
+845;Cold coffee;40;6
+846;Aalopuri;20;5
+847;Panipuri;20;11
+848;Frankie;50;9
+849;Cold coffee;40;10
+850;Vadapav;20;3
+851;Aalopuri;20;15
+852;Sugarcane juice;25;8
+853;Cold coffee;40;3
+854;Cold coffee;40;14
+855;Vadapav;20;5
+856;Aalopuri;20;11
+857;Sugarcane juice;25;14
+858;Cold coffee;40;9
+859;Sandwich;60;11
+860;Cold coffee;40;5
+861;Sugarcane juice;25;8
+862;Frankie;50;7
+863;Frankie;50;9
+864;Cold coffee;40;9
+865;Sugarcane juice;25;6
+866;Frankie;50;10
+867;Frankie;50;15
+868;Aalopuri;20;13
+869;Panipuri;20;9
+870;Cold coffee;40;5
+872;Sandwich;60;12
+873;Sugarcane juice;25;1
+874;Cold coffee;40;4
+875;Vadapav;20;15
+876;Cold coffee;40;8
+877;Sugarcane juice;25;14
+878;Sandwich;60;6
+879;Cold coffee;40;9
+880;Sugarcane juice;25;5
+881;Sandwich;60;2
+882;Panipuri;20;9
+883;Aalopuri;20;5
+884;Vadapav;20;12
+885;Sugarcane juice;25;4
+886;Sugarcane juice;25;4
+887;Aalopuri;20;3
+888;Vadapav;20;8
+889;Vadapav;20;10
+890;Sugarcane juice;25;5
+891;Cold coffee;40;11
+892;Sugarcane juice;25;7
+893;Sugarcane juice;25;12
+894;Sandwich;60;15
+895;Sugarcane juice;25;11
+896;Aalopuri;20;13
+897;Aalopuri;20;6
+898;Frankie;50;8
+899;Aalopuri;20;7
+900;Sugarcane juice;25;9
+901;Vadapav;20;7
+902;Frankie;50;4
+903;Aalopuri;20;15
+904;Aalopuri;20;4
+905;Frankie;50;15
+906;Sandwich;60;15
+908;Sandwich;60;7
+909;Cold coffee;40;12
+910;Panipuri;20;1
+911;Sandwich;60;1
+912;Aalopuri;20;6
+913;Frankie;50;15
+914;Sandwich;60;14
+915;Cold coffee;40;7
+917;Vadapav;20;15
+918;Panipuri;20;6
+919;Vadapav;20;8
+920;Frankie;50;13
+921;Vadapav;20;14
+922;Frankie;50;5
+923;Cold coffee;40;3
+924;Panipuri;20;14
+925;Frankie;50;4
+926;Frankie;50;15
+928;Sandwich;60;11
+929;Frankie;50;9
+930;Sugarcane juice;25;10
+931;Aalopuri;20;15
+932;Sandwich;60;9
+933;Sugarcane juice;25;15
+934;Cold coffee;40;4
+935;Sandwich;60;12
+937;Panipuri;20;4
+938;Sugarcane juice;25;14
+939;Vadapav;20;15
+940;Sugarcane juice;25;14
+941;Cold coffee;40;10
+942;Frankie;50;6
+943;Vadapav;20;6
+944;Aalopuri;20;2
+945;Cold coffee;40;2
+946;Sandwich;60;8
+947;Aalopuri;20;11
+948;Sandwich;60;10
+949;Panipuri;20;1
+950;Frankie;50;6
+951;Panipuri;20;11
+952;Aalopuri;20;14
+953;Sandwich;60;2
+954;Aalopuri;20;3
+955;Sugarcane juice;25;7
+956;Frankie;50;13
+957;Panipuri;20;3
+958;Sandwich;60;11
+959;Vadapav;20;8
+960;Sugarcane juice;25;15
+961;Frankie;50;13
+962;Frankie;50;13
+963;Vadapav;20;6
+964;Cold coffee;40;8
+965;Frankie;50;5
+966;Panipuri;20;11
+967;Cold coffee;40;14
+968;Cold coffee;40;15
+969;Cold coffee;40;11
+970;Aalopuri;20;5
+971;Frankie;50;2
+972;Aalopuri;20;1
+974;Vadapav;20;13
+975;Aalopuri;20;1
+977;Aalopuri;20;1
+978;Frankie;50;2
+979;Aalopuri;20;13
+980;Vadapav;20;9
+981;Panipuri;20;15
+982;Sugarcane juice;25;14
+984;Frankie;50;3
+985;Frankie;50;1
+986;Sugarcane juice;25;13
+987;Vadapav;20;3
+989;Cold coffee;40;13
+990;Vadapav;20;10
+991;Sandwich;60;7
+992;Sandwich;60;5
+993;Frankie;50;3
+994;Panipuri;20;2
+995;Sugarcane juice;25;1
+1000;Aalopuri;20;3
